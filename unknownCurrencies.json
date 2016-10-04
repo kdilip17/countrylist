@@ -1,0 +1,194 @@
+[
+  {
+    "id": "AMD",
+    "symbol": "դր.",
+    "name": "Armenian dram",
+    "countryName": "Armenia"
+  },
+  {
+    "id": "BIF",
+    "symbol": "FBu",
+    "name": "Burundian franc",
+    "countryName": "Burundi"
+  },
+  {
+    "id": "XOF",
+    "symbol": "CFA",
+    "name": "West African CFA franc",
+    "countryName": "Benin"
+  },
+  {
+    "id": "XOF",
+    "symbol": "CFA",
+    "name": "West African CFA franc",
+    "countryName": "Burkina Faso"
+  },
+  {
+    "id": "XAF",
+    "symbol": "FCFA",
+    "name": "CFA franc BEAC",
+    "countryName": "Central African Republic"
+  },
+  {
+    "id": "XOF",
+    "symbol": "CFA",
+    "name": "West African CFA franc",
+    "countryName": "Côte d'Ivoire"
+  },
+  {
+    "id": "XAF",
+    "symbol": "FCFA",
+    "name": "CFA franc BEAC",
+    "countryName": "Cameroon"
+  },
+  {
+    "id": "CDF",
+    "symbol": "FC",
+    "name": "Congolese franc",
+    "countryName": "Democratic Republic Of Congo"
+  },
+  {
+    "id": "XAF",
+    "symbol": "FCFA",
+    "name": "CFA franc BEAC",
+    "countryName": "Republic Of Congo"
+  },
+  {
+    "id": "KMF",
+    "symbol": "CF",
+    "name": "Comorian franc",
+    "countryName": "Comoros"
+  },
+  {
+    "id": "XAF",
+    "symbol": "FCFA",
+    "name": "CFA franc BEAC",
+    "countryName": "Gabon"
+  },
+  {
+    "id": "GNF",
+    "symbol": "K",
+    "name": "Papua New Guinean kina",
+    "countryName": "Guinea"
+  },
+  {
+    "id": "GMD",
+    "symbol": "D",
+    "name": "Gambian dalasi",
+    "countryName": "Gambia"
+  },
+  {
+    "id": "XOF",
+    "symbol": "CFA",
+    "name": "West African CFA franc",
+    "countryName": "Guinea-bissau"
+  },
+  {
+    "id": "XAF",
+    "symbol": "FCFA",
+    "name": "CFA franc BEAC",
+    "countryName": "Equatorial Guinea"
+  },
+  {
+    "id": "IRR",
+    "symbol": "﷼",
+    "name": "Iranian rial",
+    "countryName": "Iran, Islamic Republic Of"
+  },
+  {
+    "id": "JOD",
+    "symbol": "ينار",
+    "name": "Jordanian dinar",
+    "countryName": "Jordan"
+  },
+  {
+    "id": "XOF",
+    "symbol": "CFA",
+    "name": "West African CFA franc",
+    "countryName": "Mali"
+  },
+  {
+    "id": "XPF",
+    "symbol": "₣",
+    "name": "CFP franc",
+    "countryName": "New Caledonia"
+  },
+  {
+    "id": "XOF",
+    "symbol": "CFA",
+    "name": "West African CFA franc",
+    "countryName": "Niger"
+  },
+  {
+    "id": "JOD",
+    "symbol": "ينار",
+    "name": "Jordanian dinar",
+    "countryName": "Palestinian Territory, Occupied"
+  },
+  {
+    "id": "XPF",
+    "symbol": "₣",
+    "name": "CFP franc",
+    "countryName": "French Polynesia"
+  },
+  {
+    "id": "SDG",
+    "symbol": "ج.س.",
+    "name": "Sudanese pound",
+    "countryName": "Sudan"
+  },
+  {
+    "id": "XOF",
+    "symbol": "CFA",
+    "name": "West African CFA franc",
+    "countryName": "Senegal"
+  },
+  {
+    "id": "STD",
+    "symbol": "Db",
+    "name": "São Tomé and Príncipe dobra",
+    "countryName": "Sao Tome and Principe"
+  },
+  {
+    "id": "XAF",
+    "symbol": "FCFA",
+    "name": "CFA franc BEAC",
+    "countryName": "Chad"
+  },
+  {
+    "id": "XOF",
+    "symbol": "CFA",
+    "name": "West African CFA franc",
+    "countryName": "Togo"
+  },
+  {
+    "id": "TJS",
+    "symbol": "TJS",
+    "name": "Tajikistani somoni",
+    "countryName": "Tajikistan"
+  },
+  {
+    "id": "TND",
+    "symbol": "DT",
+    "name": "Tunisian Dinar",
+    "countryName": "Tunisia"
+  },
+  {
+    "id": "TRY",
+    "symbol": "TL",
+    "name": "Turkish Lira",
+    "countryName": "Turkey"
+  },
+  {
+    "id": "XPF",
+    "symbol": "₣",
+    "name": "CFP franc",
+    "countryName": "Wallis And Futuna"
+  },
+  {
+    "id": "YER",
+    "symbol": "rial",
+    "name": "Yemen Rial",
+    "countryName": "Yemen"
+  }
+]

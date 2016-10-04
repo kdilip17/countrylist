@@ -1,0 +1,8031 @@
+[
+  {
+    "id": "AW",
+    "code": "ABW",
+    "dialCode": "297",
+    "name": "Aruba",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "AWG",
+        "name": "AWG",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "AWG"
+    ],
+    "defaultCurrency": "AWG",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Curacao",
+        "name": "America/Curacao",
+        "isDefault": true,
+        "value": "-04:00"
+      }
+    ],
+    "defaultTimeZone": "-04:00"
+  },
+  {
+    "id": "AF",
+    "code": "AFG",
+    "dialCode": "93",
+    "name": "Afghanistan",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "AFN",
+        "name": "AFN",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "AFN"
+    ],
+    "defaultCurrency": "AFN",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Kabul",
+        "name": "Asia/Kabul",
+        "isDefault": true,
+        "value": "+04:30"
+      }
+    ],
+    "defaultTimeZone": "+04:30"
+  },
+  {
+    "id": "AO",
+    "code": "AGO",
+    "dialCode": "244",
+    "name": "Angola",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "AOA",
+        "name": "AOA",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "AOA"
+    ],
+    "defaultCurrency": "AOA",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Lagos",
+        "name": "Africa/Lagos",
+        "isDefault": true,
+        "value": "+01:00"
+      }
+    ],
+    "defaultTimeZone": "+01:00"
+  },
+  {
+    "id": "AI",
+    "code": "AFI",
+    "dialCode": null,
+    "name": "French Afar and Issas",
+    "isActive": true,
+    "currencys": [],
+    "currencies": [],
+    "defaultCurrency": "USD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Port_of_Spain",
+        "name": "America/Port_of_Spain",
+        "isDefault": true,
+        "value": "-04:00"
+      }
+    ],
+    "defaultTimeZone": "-04:00"
+  },
+  {
+    "id": "AX",
+    "code": "ALA",
+    "dialCode": "358",
+    "name": "Åland Islands",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "defaultCurrency": "EUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Helsinki",
+        "name": "Europe/Helsinki",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "AL",
+    "code": "ALB",
+    "dialCode": "355",
+    "name": "Albania",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "ALL",
+        "name": "ALL",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "ALL"
+    ],
+    "defaultCurrency": "ALL",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Tirane",
+        "name": "Europe/Tirane",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "AD",
+    "code": "AND",
+    "dialCode": "376",
+    "name": "Andorra",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "defaultCurrency": "EUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Andorra",
+        "name": "Europe/Andorra",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "AE",
+    "code": "ARE",
+    "dialCode": "971",
+    "name": "United Arab Emirates",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "AED",
+        "name": "AED",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "AED"
+    ],
+    "defaultCurrency": "AED",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Dubai",
+        "name": "Asia/Dubai",
+        "isDefault": true,
+        "value": "+04:00"
+      }
+    ],
+    "defaultTimeZone": "+04:00"
+  },
+  {
+    "id": "AR",
+    "code": "ARG",
+    "dialCode": "54",
+    "name": "Argentina",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "ARS",
+        "name": "ARS",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "ARS"
+    ],
+    "defaultCurrency": "ARS",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Argentina/Buenos_Aires",
+        "name": "America/Argentina/Buenos_Aires",
+        "isDefault": true,
+        "value": "-03:00"
+      },
+      {
+        "id": "America/Argentina/Cordoba",
+        "name": "America/Argentina/Cordoba",
+        "isDefault": true,
+        "value": "-03:00"
+      },
+      {
+        "id": "America/Argentina/Salta",
+        "name": "America/Argentina/Salta",
+        "isDefault": true,
+        "value": "-03:00"
+      },
+      {
+        "id": "America/Argentina/Jujuy",
+        "name": "America/Argentina/Jujuy",
+        "isDefault": true,
+        "value": "-03:00"
+      },
+      {
+        "id": "America/Argentina/Tucuman",
+        "name": "America/Argentina/Tucuman",
+        "isDefault": true,
+        "value": "-03:00"
+      },
+      {
+        "id": "America/Argentina/Catamarca",
+        "name": "America/Argentina/Catamarca",
+        "isDefault": true,
+        "value": "-03:00"
+      },
+      {
+        "id": "America/Argentina/La_Rioja",
+        "name": "America/Argentina/La_Rioja",
+        "isDefault": true,
+        "value": "-03:00"
+      },
+      {
+        "id": "America/Argentina/San_Juan",
+        "name": "America/Argentina/San_Juan",
+        "isDefault": true,
+        "value": "-03:00"
+      },
+      {
+        "id": "America/Argentina/Mendoza",
+        "name": "America/Argentina/Mendoza",
+        "isDefault": true,
+        "value": "-03:00"
+      },
+      {
+        "id": "America/Argentina/San_Luis",
+        "name": "America/Argentina/San_Luis",
+        "isDefault": true,
+        "value": "-03:00"
+      },
+      {
+        "id": "America/Argentina/Rio_Gallegos",
+        "name": "America/Argentina/Rio_Gallegos",
+        "isDefault": true,
+        "value": "-03:00"
+      },
+      {
+        "id": "America/Argentina/Ushuaia",
+        "name": "America/Argentina/Ushuaia",
+        "isDefault": true,
+        "value": "-03:00"
+      }
+    ],
+    "defaultTimeZone": "-03:00"
+  },
+  {
+    "id": "AM",
+    "code": "ARM",
+    "dialCode": "374",
+    "name": "Armenia",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "AMD",
+        "name": "AMD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "AMD"
+    ],
+    "defaultCurrency": "AMD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Yerevan",
+        "name": "Asia/Yerevan",
+        "isDefault": true,
+        "value": "+04:00"
+      }
+    ],
+    "defaultTimeZone": "+04:00"
+  },
+  {
+    "id": "AS",
+    "code": "ASM",
+    "dialCode": "1 684",
+    "name": "American Samoa",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "USD",
+        "name": "USD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "defaultCurrency": "USD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Pacific/Pago_Pago",
+        "name": "Pacific/Pago_Pago",
+        "isDefault": true,
+        "value": "-11:00"
+      }
+    ],
+    "defaultTimeZone": "-11:00"
+  },
+  {
+    "id": "AQ",
+    "code": "ATA",
+    "dialCode": "672",
+    "name": "Antarctica",
+    "isActive": true,
+    "currencys": [],
+    "currencies": [],
+    "defaultCurrency": "USD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Antarctica/Rothera",
+        "name": "Antarctica/Rothera",
+        "isDefault": true,
+        "value": "-03:00"
+      },
+      {
+        "id": "Antarctica/Palmer",
+        "name": "Antarctica/Palmer",
+        "isDefault": true,
+        "value": "-03:00"
+      },
+      {
+        "id": "Antarctica/Mawson",
+        "name": "Antarctica/Mawson",
+        "isDefault": true,
+        "value": "+05:00"
+      },
+      {
+        "id": "Antarctica/Davis",
+        "name": "Antarctica/Davis",
+        "isDefault": true,
+        "value": "+07:00"
+      },
+      {
+        "id": "Antarctica/Casey",
+        "name": "Antarctica/Casey",
+        "isDefault": true,
+        "value": "+08:00"
+      },
+      {
+        "id": "Antarctica/Vostok",
+        "name": "Antarctica/Vostok",
+        "isDefault": true,
+        "value": "+06:00"
+      },
+      {
+        "id": "Antarctica/DumontDUrville",
+        "name": "Antarctica/DumontDUrville",
+        "isDefault": true,
+        "value": "+10:00"
+      },
+      {
+        "id": "Antarctica/Syowa",
+        "name": "Antarctica/Syowa",
+        "isDefault": true,
+        "value": "+03:00"
+      },
+      {
+        "id": "Antarctica/Troll",
+        "name": "Antarctica/Troll",
+        "isDefault": true,
+        "value": "+02:00"
+      },
+      {
+        "id": "Pacific/Auckland",
+        "name": "Pacific/Auckland",
+        "isDefault": true,
+        "value": "+13:00"
+      }
+    ],
+    "defaultTimeZone": "+13:00"
+  },
+  {
+    "id": "TF",
+    "code": "ATF",
+    "dialCode": null,
+    "name": "French Southern Territories",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "defaultCurrency": "EUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Indian/Reunion",
+        "name": "Indian/Reunion",
+        "isDefault": true,
+        "value": "+04:00"
+      },
+      {
+        "id": "Indian/Kerguelen",
+        "name": "Indian/Kerguelen",
+        "isDefault": true,
+        "value": "+05:00"
+      }
+    ],
+    "defaultTimeZone": "+05:00"
+  },
+  {
+    "id": "AG",
+    "code": "ATG",
+    "dialCode": "1 268",
+    "name": "Antigua And Barbuda",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "XCD",
+        "name": "XCD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "defaultCurrency": "XCD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Port_of_Spain",
+        "name": "America/Port_of_Spain",
+        "isDefault": true,
+        "value": "-04:00"
+      }
+    ],
+    "defaultTimeZone": "-04:00"
+  },
+  {
+    "id": "AU",
+    "code": "AUS",
+    "dialCode": "61",
+    "name": "Australia",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "AUD",
+        "name": "AUD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "AUD"
+    ],
+    "defaultCurrency": "AUD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Australia/Lord_Howe",
+        "name": "Australia/Lord_Howe",
+        "isDefault": false,
+        "value": "+11:00"
+      },
+      {
+        "id": "Antarctica/Macquarie",
+        "name": "Antarctica/Macquarie",
+        "isDefault": false,
+        "value": "+11:00"
+      },
+      {
+        "id": "Australia/Hobart",
+        "name": "Australia/Hobart",
+        "isDefault": false,
+        "value": "+11:00"
+      },
+      {
+        "id": "Australia/Currie",
+        "name": "Australia/Currie",
+        "isDefault": false,
+        "value": "+11:00"
+      },
+      {
+        "id": "Australia/Melbourne",
+        "name": "Australia/Melbourne",
+        "isDefault": true,
+        "value": "+11:00"
+      },
+      {
+        "id": "Australia/Sydney",
+        "name": "Australia/Sydney",
+        "isDefault": false,
+        "value": "+11:00"
+      },
+      {
+        "id": "Australia/Broken_Hill",
+        "name": "Australia/Broken_Hill",
+        "isDefault": false,
+        "value": "+10:30"
+      },
+      {
+        "id": "Australia/Brisbane",
+        "name": "Australia/Brisbane",
+        "isDefault": false,
+        "value": "+10:00"
+      },
+      {
+        "id": "Australia/Lindeman",
+        "name": "Australia/Lindeman",
+        "isDefault": false,
+        "value": "+10:00"
+      },
+      {
+        "id": "Australia/Adelaide",
+        "name": "Australia/Adelaide",
+        "isDefault": false,
+        "value": "+10:30"
+      },
+      {
+        "id": "Australia/Darwin",
+        "name": "Australia/Darwin",
+        "isDefault": false,
+        "value": "+09:30"
+      },
+      {
+        "id": "Australia/Perth",
+        "name": "Australia/Perth",
+        "isDefault": false,
+        "value": "+08:00"
+      },
+      {
+        "id": "Australia/Eucla",
+        "name": "Australia/Eucla",
+        "isDefault": false,
+        "value": "+08:45"
+      }
+    ],
+    "defaultTimeZone": "+08:45"
+  },
+  {
+    "id": "AT",
+    "code": "AUT",
+    "dialCode": "43",
+    "name": "Austria",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "defaultCurrency": "EUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Vienna",
+        "name": "Europe/Vienna",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "AZ",
+    "code": "AZE",
+    "dialCode": "994",
+    "name": "Azerbaijan",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "AZN",
+        "name": "AZN",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "AZN"
+    ],
+    "defaultCurrency": "AZN",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Baku",
+        "name": "Asia/Baku",
+        "isDefault": true,
+        "value": "+04:00"
+      }
+    ],
+    "defaultTimeZone": "+04:00"
+  },
+  {
+    "id": "BI",
+    "code": "BDI",
+    "dialCode": "257",
+    "name": "Burundi",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "BIF",
+        "name": "BIF",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "BIF"
+    ],
+    "defaultCurrency": "BIF",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Maputo",
+        "name": "Africa/Maputo",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "BE",
+    "code": "BEL",
+    "dialCode": "32",
+    "name": "Belgium",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "defaultCurrency": "EUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Brussels",
+        "name": "Europe/Brussels",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "BJ",
+    "code": "BEN",
+    "dialCode": "229",
+    "name": "Benin",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "XOF",
+        "name": "XOF",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "defaultCurrency": "XOF",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Lagos",
+        "name": "Africa/Lagos",
+        "isDefault": true,
+        "value": "+01:00"
+      }
+    ],
+    "defaultTimeZone": "+01:00"
+  },
+  {
+    "id": "BF",
+    "code": "BFA",
+    "dialCode": "226",
+    "name": "Burkina Faso",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "XOF",
+        "name": "XOF",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "defaultCurrency": "XOF",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Abidjan",
+        "name": "Africa/Abidjan",
+        "isDefault": true,
+        "value": "+00:00"
+      }
+    ],
+    "defaultTimeZone": "+00:00"
+  },
+  {
+    "id": "BD",
+    "code": "BGD",
+    "dialCode": "880",
+    "name": "Bangladesh",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "BDT",
+        "name": "BDT",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "BDT"
+    ],
+    "defaultCurrency": "BDT",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Dhaka",
+        "name": "Asia/Dhaka",
+        "isDefault": true,
+        "value": "+06:00"
+      }
+    ],
+    "defaultTimeZone": "+06:00"
+  },
+  {
+    "id": "BG",
+    "code": "BGR",
+    "dialCode": "359",
+    "name": "Bulgaria",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "BGN",
+        "name": "BGN",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "BGN"
+    ],
+    "defaultCurrency": "BGN",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Sofia",
+        "name": "Europe/Sofia",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "BH",
+    "code": "BHR",
+    "dialCode": "973",
+    "name": "Bahrain",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "BHD",
+        "name": "BHD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "BHD"
+    ],
+    "defaultCurrency": "BHD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Qatar",
+        "name": "Asia/Qatar",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "BS",
+    "code": "BHS",
+    "dialCode": "1 242",
+    "name": "Bahamas",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "BSD",
+        "name": "BSD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "BSD"
+    ],
+    "defaultCurrency": "BSD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Nassau",
+        "name": "America/Nassau",
+        "isDefault": true,
+        "value": "-04:00"
+      }
+    ],
+    "defaultTimeZone": "-04:00"
+  },
+  {
+    "id": "BA",
+    "code": "BIH",
+    "dialCode": "387",
+    "name": "Bosnia & Herzegovina",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "BAM",
+        "name": "BAM",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "BAM"
+    ],
+    "defaultCurrency": "BAM",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Belgrade",
+        "name": "Europe/Belgrade",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "BL",
+    "code": "BLM",
+    "dialCode": "590",
+    "name": "Saint Barthélemy",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "defaultCurrency": "EUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Port_of_Spain",
+        "name": "America/Port_of_Spain",
+        "isDefault": true,
+        "value": "-04:00"
+      }
+    ],
+    "defaultTimeZone": "-04:00"
+  },
+  {
+    "id": "BY",
+    "code": "BYS",
+    "dialCode": null,
+    "name": "Byelorussian SSR",
+    "isActive": true,
+    "currencys": [],
+    "currencies": [],
+    "defaultCurrency": "USD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Minsk",
+        "name": "Europe/Minsk",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "BZ",
+    "code": "BLZ",
+    "dialCode": "501",
+    "name": "Belize",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "BZD",
+        "name": "BZD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "BZD"
+    ],
+    "defaultCurrency": "BZD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Belize",
+        "name": "America/Belize",
+        "isDefault": true,
+        "value": "-06:00"
+      }
+    ],
+    "defaultTimeZone": "-06:00"
+  },
+  {
+    "id": "BM",
+    "code": "BMU",
+    "dialCode": "1 441",
+    "name": "Bermuda",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "BMD",
+        "name": "BMD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "BMD"
+    ],
+    "defaultCurrency": "BMD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Atlantic/Bermuda",
+        "name": "Atlantic/Bermuda",
+        "isDefault": true,
+        "value": "-03:00"
+      }
+    ],
+    "defaultTimeZone": "-03:00"
+  },
+  {
+    "id": "BO",
+    "code": "BOL",
+    "dialCode": "591",
+    "name": "Bolivia, Plurinational State Of",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "BOB",
+        "name": "BOB",
+        "isDefault": true
+      },
+      {
+        "id": "BOV",
+        "name": "BOV",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "BOB",
+      "BOV"
+    ],
+    "defaultCurrency": "BOB",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/La_Paz",
+        "name": "America/La_Paz",
+        "isDefault": true,
+        "value": "-04:00"
+      }
+    ],
+    "defaultTimeZone": "-04:00"
+  },
+  {
+    "id": "BR",
+    "code": "BRA",
+    "dialCode": "55",
+    "name": "Brazil",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "BRL",
+        "name": "BRL",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "BRL"
+    ],
+    "defaultCurrency": "BRL",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Noronha",
+        "name": "America/Noronha",
+        "isDefault": true,
+        "value": "-02:00"
+      },
+      {
+        "id": "America/Belem",
+        "name": "America/Belem",
+        "isDefault": true,
+        "value": "-03:00"
+      },
+      {
+        "id": "America/Fortaleza",
+        "name": "America/Fortaleza",
+        "isDefault": true,
+        "value": "-03:00"
+      },
+      {
+        "id": "America/Recife",
+        "name": "America/Recife",
+        "isDefault": true,
+        "value": "-03:00"
+      },
+      {
+        "id": "America/Araguaina",
+        "name": "America/Araguaina",
+        "isDefault": true,
+        "value": "-03:00"
+      },
+      {
+        "id": "America/Maceio",
+        "name": "America/Maceio",
+        "isDefault": true,
+        "value": "-03:00"
+      },
+      {
+        "id": "America/Bahia",
+        "name": "America/Bahia",
+        "isDefault": true,
+        "value": "-03:00"
+      },
+      {
+        "id": "America/Sao_Paulo",
+        "name": "America/Sao_Paulo",
+        "isDefault": true,
+        "value": "-03:00"
+      },
+      {
+        "id": "America/Campo_Grande",
+        "name": "America/Campo_Grande",
+        "isDefault": true,
+        "value": "-04:00"
+      },
+      {
+        "id": "America/Cuiaba",
+        "name": "America/Cuiaba",
+        "isDefault": true,
+        "value": "-04:00"
+      },
+      {
+        "id": "America/Santarem",
+        "name": "America/Santarem",
+        "isDefault": true,
+        "value": "-03:00"
+      },
+      {
+        "id": "America/Porto_Velho",
+        "name": "America/Porto_Velho",
+        "isDefault": true,
+        "value": "-04:00"
+      },
+      {
+        "id": "America/Boa_Vista",
+        "name": "America/Boa_Vista",
+        "isDefault": true,
+        "value": "-04:00"
+      },
+      {
+        "id": "America/Manaus",
+        "name": "America/Manaus",
+        "isDefault": true,
+        "value": "-04:00"
+      },
+      {
+        "id": "America/Eirunepe",
+        "name": "America/Eirunepe",
+        "isDefault": true,
+        "value": "-05:00"
+      },
+      {
+        "id": "America/Rio_Branco",
+        "name": "America/Rio_Branco",
+        "isDefault": true,
+        "value": "-05:00"
+      }
+    ],
+    "defaultTimeZone": "-05:00"
+  },
+  {
+    "id": "BB",
+    "code": "BRB",
+    "dialCode": "1 246",
+    "name": "Barbados",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "BBD",
+        "name": "BBD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "BBD"
+    ],
+    "defaultCurrency": "BBD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Barbados",
+        "name": "America/Barbados",
+        "isDefault": true,
+        "value": "-04:00"
+      }
+    ],
+    "defaultTimeZone": "-04:00"
+  },
+  {
+    "id": "BN",
+    "code": "BRN",
+    "dialCode": "673",
+    "name": "Brunei Darussalam",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "BND",
+        "name": "BND",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "BND"
+    ],
+    "defaultCurrency": "BND",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Brunei",
+        "name": "Asia/Brunei",
+        "isDefault": true,
+        "value": "+08:00"
+      }
+    ],
+    "defaultTimeZone": "+08:00"
+  },
+  {
+    "id": "BT",
+    "code": "BTN",
+    "dialCode": "975",
+    "name": "Bhutan",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "INR",
+        "name": "INR",
+        "isDefault": true
+      },
+      {
+        "id": "BTN",
+        "name": "BTN",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "INR",
+      "BTN"
+    ],
+    "defaultCurrency": "INR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Thimphu",
+        "name": "Asia/Thimphu",
+        "isDefault": true,
+        "value": "+06:00"
+      }
+    ],
+    "defaultTimeZone": "+06:00"
+  },
+  {
+    "id": "BV",
+    "code": "BVT",
+    "dialCode": null,
+    "name": "Bouvet Island",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "NOK",
+        "name": "NOK",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "NOK"
+    ],
+    "defaultCurrency": "NOK",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [],
+    "defaultTimeZone": ""
+  },
+  {
+    "id": "BW",
+    "code": "BWA",
+    "dialCode": "267",
+    "name": "Botswana",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "BWP",
+        "name": "BWP",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "BWP"
+    ],
+    "defaultCurrency": "BWP",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Maputo",
+        "name": "Africa/Maputo",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "CF",
+    "code": "CAF",
+    "dialCode": "236",
+    "name": "Central African Republic",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "XAF",
+        "name": "XAF",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "XAF"
+    ],
+    "defaultCurrency": "XAF",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Lagos",
+        "name": "Africa/Lagos",
+        "isDefault": true,
+        "value": "+01:00"
+      }
+    ],
+    "defaultTimeZone": "+01:00"
+  },
+  {
+    "id": "CA",
+    "code": "CAN",
+    "dialCode": "1",
+    "name": "Canada",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "CAD",
+        "name": "CAD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "CAD"
+    ],
+    "defaultCurrency": "CAD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/St_Johns",
+        "name": "America/St_Johns",
+        "isDefault": true,
+        "value": "-02:30"
+      },
+      {
+        "id": "America/Halifax",
+        "name": "America/Halifax",
+        "isDefault": true,
+        "value": "-03:00"
+      },
+      {
+        "id": "America/Glace_Bay",
+        "name": "America/Glace_Bay",
+        "isDefault": true,
+        "value": "-03:00"
+      },
+      {
+        "id": "America/Moncton",
+        "name": "America/Moncton",
+        "isDefault": true,
+        "value": "-03:00"
+      },
+      {
+        "id": "America/Goose_Bay",
+        "name": "America/Goose_Bay",
+        "isDefault": true,
+        "value": "-03:00"
+      },
+      {
+        "id": "America/Blanc-Sablon",
+        "name": "America/Blanc-Sablon",
+        "isDefault": true,
+        "value": "-04:00"
+      },
+      {
+        "id": "America/Toronto",
+        "name": "America/Toronto",
+        "isDefault": true,
+        "value": "-04:00"
+      },
+      {
+        "id": "America/Nipigon",
+        "name": "America/Nipigon",
+        "isDefault": true,
+        "value": "-04:00"
+      },
+      {
+        "id": "America/Thunder_Bay",
+        "name": "America/Thunder_Bay",
+        "isDefault": true,
+        "value": "-04:00"
+      },
+      {
+        "id": "America/Iqaluit",
+        "name": "America/Iqaluit",
+        "isDefault": true,
+        "value": "-04:00"
+      },
+      {
+        "id": "America/Pangnirtung",
+        "name": "America/Pangnirtung",
+        "isDefault": true,
+        "value": "-04:00"
+      },
+      {
+        "id": "America/Resolute",
+        "name": "America/Resolute",
+        "isDefault": true,
+        "value": "-05:00"
+      },
+      {
+        "id": "America/Atikokan",
+        "name": "America/Atikokan",
+        "isDefault": true,
+        "value": "-05:00"
+      },
+      {
+        "id": "America/Rankin_Inlet",
+        "name": "America/Rankin_Inlet",
+        "isDefault": true,
+        "value": "-05:00"
+      },
+      {
+        "id": "America/Winnipeg",
+        "name": "America/Winnipeg",
+        "isDefault": true,
+        "value": "-05:00"
+      },
+      {
+        "id": "America/Rainy_River",
+        "name": "America/Rainy_River",
+        "isDefault": true,
+        "value": "-05:00"
+      },
+      {
+        "id": "America/Regina",
+        "name": "America/Regina",
+        "isDefault": true,
+        "value": "-06:00"
+      },
+      {
+        "id": "America/Swift_Current",
+        "name": "America/Swift_Current",
+        "isDefault": true,
+        "value": "-06:00"
+      },
+      {
+        "id": "America/Edmonton",
+        "name": "America/Edmonton",
+        "isDefault": true,
+        "value": "-06:00"
+      },
+      {
+        "id": "America/Cambridge_Bay",
+        "name": "America/Cambridge_Bay",
+        "isDefault": true,
+        "value": "-06:00"
+      },
+      {
+        "id": "America/Yellowknife",
+        "name": "America/Yellowknife",
+        "isDefault": true,
+        "value": "-06:00"
+      },
+      {
+        "id": "America/Inuvik",
+        "name": "America/Inuvik",
+        "isDefault": true,
+        "value": "-06:00"
+      },
+      {
+        "id": "America/Creston",
+        "name": "America/Creston",
+        "isDefault": true,
+        "value": "-07:00"
+      },
+      {
+        "id": "America/Dawson_Creek",
+        "name": "America/Dawson_Creek",
+        "isDefault": true,
+        "value": "-07:00"
+      },
+      {
+        "id": "America/Fort_Nelson",
+        "name": "America/Fort_Nelson",
+        "isDefault": true,
+        "value": "-07:00"
+      },
+      {
+        "id": "America/Vancouver",
+        "name": "America/Vancouver",
+        "isDefault": true,
+        "value": "-07:00"
+      },
+      {
+        "id": "America/Whitehorse",
+        "name": "America/Whitehorse",
+        "isDefault": true,
+        "value": "-07:00"
+      },
+      {
+        "id": "America/Dawson",
+        "name": "America/Dawson",
+        "isDefault": true,
+        "value": "-07:00"
+      }
+    ],
+    "defaultTimeZone": "-07:00"
+  },
+  {
+    "id": "CC",
+    "code": "CCK",
+    "dialCode": "61",
+    "name": "Cocos (Keeling) Islands",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "AUD",
+        "name": "AUD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "AUD"
+    ],
+    "defaultCurrency": "AUD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Indian/Cocos",
+        "name": "Indian/Cocos",
+        "isDefault": true,
+        "value": "+06:30"
+      }
+    ],
+    "defaultTimeZone": "+06:30"
+  },
+  {
+    "id": "CH",
+    "code": "CHE",
+    "dialCode": "41",
+    "name": "Switzerland",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "CHF",
+        "name": "CHF",
+        "isDefault": true
+      },
+      {
+        "id": "CHE",
+        "name": "CHE",
+        "isDefault": true
+      },
+      {
+        "id": "CHW",
+        "name": "CHW",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "CHF",
+      "CHE",
+      "CHW"
+    ],
+    "defaultCurrency": "CHF",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Zurich",
+        "name": "Europe/Zurich",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "CL",
+    "code": "CHL",
+    "dialCode": "56",
+    "name": "Chile",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "CLP",
+        "name": "CLP",
+        "isDefault": true
+      },
+      {
+        "id": "CLF",
+        "name": "CLF",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "CLP",
+      "CLF"
+    ],
+    "defaultCurrency": "CLP",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Santiago",
+        "name": "America/Santiago",
+        "isDefault": true,
+        "value": "-03:00"
+      },
+      {
+        "id": "Pacific/Easter",
+        "name": "Pacific/Easter",
+        "isDefault": true,
+        "value": "-05:00"
+      }
+    ],
+    "defaultTimeZone": "-05:00"
+  },
+  {
+    "id": "CN",
+    "code": "CHN",
+    "dialCode": "86",
+    "name": "China",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "CNY",
+        "name": "CNY",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "CNY"
+    ],
+    "defaultCurrency": "CNY",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Shanghai",
+        "name": "Asia/Shanghai",
+        "isDefault": true,
+        "value": "+08:00"
+      },
+      {
+        "id": "Asia/Urumqi",
+        "name": "Asia/Urumqi",
+        "isDefault": true,
+        "value": "+06:00"
+      }
+    ],
+    "defaultTimeZone": "+06:00"
+  },
+  {
+    "id": "CI",
+    "code": "CIV",
+    "dialCode": "225",
+    "name": "Côte d'Ivoire",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "XOF",
+        "name": "XOF",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "defaultCurrency": "XOF",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Abidjan",
+        "name": "Africa/Abidjan",
+        "isDefault": true,
+        "value": "+00:00"
+      }
+    ],
+    "defaultTimeZone": "+00:00"
+  },
+  {
+    "id": "CM",
+    "code": "CMR",
+    "dialCode": "237",
+    "name": "Cameroon",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "XAF",
+        "name": "XAF",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "XAF"
+    ],
+    "defaultCurrency": "XAF",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Lagos",
+        "name": "Africa/Lagos",
+        "isDefault": true,
+        "value": "+01:00"
+      }
+    ],
+    "defaultTimeZone": "+01:00"
+  },
+  {
+    "id": "CD",
+    "code": "COD",
+    "dialCode": "243",
+    "name": "Democratic Republic Of Congo",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "CDF",
+        "name": "CDF",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "CDF"
+    ],
+    "defaultCurrency": "CDF",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Maputo",
+        "name": "Africa/Maputo",
+        "isDefault": true,
+        "value": "+02:00"
+      },
+      {
+        "id": "Africa/Lagos",
+        "name": "Africa/Lagos",
+        "isDefault": true,
+        "value": "+01:00"
+      }
+    ],
+    "defaultTimeZone": "+01:00"
+  },
+  {
+    "id": "CG",
+    "code": "COG",
+    "dialCode": "242",
+    "name": "Republic Of Congo",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "XAF",
+        "name": "XAF",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "XAF"
+    ],
+    "defaultCurrency": "XAF",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Lagos",
+        "name": "Africa/Lagos",
+        "isDefault": true,
+        "value": "+01:00"
+      }
+    ],
+    "defaultTimeZone": "+01:00"
+  },
+  {
+    "id": "CK",
+    "code": "COK",
+    "dialCode": "682",
+    "name": "Cook Islands",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "NZD",
+        "name": "NZD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "NZD"
+    ],
+    "defaultCurrency": "NZD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Pacific/Rarotonga",
+        "name": "Pacific/Rarotonga",
+        "isDefault": true,
+        "value": "-10:00"
+      }
+    ],
+    "defaultTimeZone": "-10:00"
+  },
+  {
+    "id": "CO",
+    "code": "COL",
+    "dialCode": "57",
+    "name": "Colombia",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "COP",
+        "name": "COP",
+        "isDefault": true
+      },
+      {
+        "id": "COU",
+        "name": "COU",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "COP",
+      "COU"
+    ],
+    "defaultCurrency": "COP",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Bogota",
+        "name": "America/Bogota",
+        "isDefault": true,
+        "value": "-05:00"
+      }
+    ],
+    "defaultTimeZone": "-05:00"
+  },
+  {
+    "id": "KM",
+    "code": "COM",
+    "dialCode": "269",
+    "name": "Comoros",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "KMF",
+        "name": "KMF",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "KMF"
+    ],
+    "defaultCurrency": "KMF",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Nairobi",
+        "name": "Africa/Nairobi",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "CV",
+    "code": "CPV",
+    "dialCode": "238",
+    "name": "Cabo Verde",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "CVE",
+        "name": "CVE",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "CVE"
+    ],
+    "defaultCurrency": "CVE",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Atlantic/Cape_Verde",
+        "name": "Atlantic/Cape_Verde",
+        "isDefault": true,
+        "value": "-01:00"
+      }
+    ],
+    "defaultTimeZone": "-01:00"
+  },
+  {
+    "id": "CR",
+    "code": "CRI",
+    "dialCode": "506",
+    "name": "Costa Rica",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "CRC",
+        "name": "CRC",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "CRC"
+    ],
+    "defaultCurrency": "CRC",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Costa_Rica",
+        "name": "America/Costa_Rica",
+        "isDefault": true,
+        "value": "-06:00"
+      }
+    ],
+    "defaultTimeZone": "-06:00"
+  },
+  {
+    "id": "CU",
+    "code": "CUB",
+    "dialCode": "53",
+    "name": "Cuba",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "CUP",
+        "name": "CUP",
+        "isDefault": true
+      },
+      {
+        "id": "CUC",
+        "name": "CUC",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "CUP",
+      "CUC"
+    ],
+    "defaultCurrency": "CUP",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Havana",
+        "name": "America/Havana",
+        "isDefault": true,
+        "value": "-04:00"
+      }
+    ],
+    "defaultTimeZone": "-04:00"
+  },
+  {
+    "id": "CW",
+    "code": "CUW",
+    "dialCode": "599",
+    "name": "Curacao",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "ANG",
+        "name": "ANG",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "ANG"
+    ],
+    "defaultCurrency": "ANG",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Curacao",
+        "name": "America/Curacao",
+        "isDefault": true,
+        "value": "-04:00"
+      }
+    ],
+    "defaultTimeZone": "-04:00"
+  },
+  {
+    "id": "CX",
+    "code": "CXR",
+    "dialCode": "61",
+    "name": "Christmas Island",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "AUD",
+        "name": "AUD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "AUD"
+    ],
+    "defaultCurrency": "AUD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Indian/Christmas",
+        "name": "Indian/Christmas",
+        "isDefault": true,
+        "value": "+07:00"
+      }
+    ],
+    "defaultTimeZone": "+07:00"
+  },
+  {
+    "id": "KY",
+    "code": "CYM",
+    "dialCode": "1 345",
+    "name": "Cayman Islands",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "KYD",
+        "name": "KYD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "KYD"
+    ],
+    "defaultCurrency": "KYD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Cayman",
+        "name": "America/Cayman",
+        "isDefault": true,
+        "value": "-05:00"
+      }
+    ],
+    "defaultTimeZone": "-05:00"
+  },
+  {
+    "id": "CY",
+    "code": "CYP",
+    "dialCode": "357",
+    "name": "Cyprus",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "defaultCurrency": "EUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Nicosia",
+        "name": "Asia/Nicosia",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "CZ",
+    "code": "CZE",
+    "dialCode": "420",
+    "name": "Czech Republic",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "CZK",
+        "name": "CZK",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "CZK"
+    ],
+    "defaultCurrency": "CZK",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Prague",
+        "name": "Europe/Prague",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "DE",
+    "code": "DEU",
+    "dialCode": "49",
+    "name": "Germany",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "defaultCurrency": "EUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Zurich",
+        "name": "Europe/Zurich",
+        "isDefault": true,
+        "value": "+02:00"
+      },
+      {
+        "id": "Europe/Berlin",
+        "name": "Europe/Berlin",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "DJ",
+    "code": "DJI",
+    "dialCode": "253",
+    "name": "Djibouti",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "DJF",
+        "name": "DJF",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "DJF"
+    ],
+    "defaultCurrency": "DJF",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Nairobi",
+        "name": "Africa/Nairobi",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "DM",
+    "code": "DMA",
+    "dialCode": "1 767",
+    "name": "Dominica",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "XCD",
+        "name": "XCD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "defaultCurrency": "XCD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Port_of_Spain",
+        "name": "America/Port_of_Spain",
+        "isDefault": true,
+        "value": "-04:00"
+      }
+    ],
+    "defaultTimeZone": "-04:00"
+  },
+  {
+    "id": "DK",
+    "code": "DNK",
+    "dialCode": "45",
+    "name": "Denmark",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "DKK",
+        "name": "DKK",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "DKK"
+    ],
+    "defaultCurrency": "DKK",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Copenhagen",
+        "name": "Europe/Copenhagen",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "DO",
+    "code": "DOM",
+    "dialCode": "1 809",
+    "name": "Dominican Republic",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "DOP",
+        "name": "DOP",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "DOP"
+    ],
+    "defaultCurrency": "DOP",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Santo_Domingo",
+        "name": "America/Santo_Domingo",
+        "isDefault": true,
+        "value": "-04:00"
+      }
+    ],
+    "defaultTimeZone": "-04:00"
+  },
+  {
+    "id": "DZ",
+    "code": "DZA",
+    "dialCode": "213",
+    "name": "Algeria",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "DZD",
+        "name": "DZD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "DZD"
+    ],
+    "defaultCurrency": "DZD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Algiers",
+        "name": "Africa/Algiers",
+        "isDefault": true,
+        "value": "+01:00"
+      }
+    ],
+    "defaultTimeZone": "+01:00"
+  },
+  {
+    "id": "EC",
+    "code": "ECU",
+    "dialCode": "593",
+    "name": "Ecuador",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "USD",
+        "name": "USD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "defaultCurrency": "USD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Guayaquil",
+        "name": "America/Guayaquil",
+        "isDefault": true,
+        "value": "-05:00"
+      },
+      {
+        "id": "Pacific/Galapagos",
+        "name": "Pacific/Galapagos",
+        "isDefault": true,
+        "value": "-06:00"
+      }
+    ],
+    "defaultTimeZone": "-06:00"
+  },
+  {
+    "id": "EG",
+    "code": "EGY",
+    "dialCode": "20",
+    "name": "Egypt",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EGP",
+        "name": "EGP",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EGP"
+    ],
+    "defaultCurrency": "EGP",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Cairo",
+        "name": "Africa/Cairo",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "ER",
+    "code": "ERI",
+    "dialCode": "291",
+    "name": "Eritrea",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "ERN",
+        "name": "ERN",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "ERN"
+    ],
+    "defaultCurrency": "ERN",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Nairobi",
+        "name": "Africa/Nairobi",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "EH",
+    "code": "ESH",
+    "dialCode": "212",
+    "name": "Western Sahara",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "MAD",
+        "name": "MAD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "MAD"
+    ],
+    "defaultCurrency": "MAD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/El_Aaiun",
+        "name": "Africa/El_Aaiun",
+        "isDefault": true,
+        "value": "+01:00"
+      }
+    ],
+    "defaultTimeZone": "+01:00"
+  },
+  {
+    "id": "ES",
+    "code": "ESP",
+    "dialCode": "34",
+    "name": "Spain",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "defaultCurrency": "EUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Madrid",
+        "name": "Europe/Madrid",
+        "isDefault": true,
+        "value": "+02:00"
+      },
+      {
+        "id": "Africa/Ceuta",
+        "name": "Africa/Ceuta",
+        "isDefault": true,
+        "value": "+02:00"
+      },
+      {
+        "id": "Atlantic/Canary",
+        "name": "Atlantic/Canary",
+        "isDefault": true,
+        "value": "+01:00"
+      }
+    ],
+    "defaultTimeZone": "+01:00"
+  },
+  {
+    "id": "EE",
+    "code": "EST",
+    "dialCode": "372",
+    "name": "Estonia",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "defaultCurrency": "EUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Tallinn",
+        "name": "Europe/Tallinn",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "ET",
+    "code": "ETH",
+    "dialCode": "251",
+    "name": "Ethiopia",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "ETB",
+        "name": "ETB",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "ETB"
+    ],
+    "defaultCurrency": "ETB",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Nairobi",
+        "name": "Africa/Nairobi",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "FI",
+    "code": "FIN",
+    "dialCode": "358",
+    "name": "Finland",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "defaultCurrency": "EUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Helsinki",
+        "name": "Europe/Helsinki",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "FJ",
+    "code": "FJI",
+    "dialCode": "679",
+    "name": "Fiji",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "FJD",
+        "name": "FJD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "FJD"
+    ],
+    "defaultCurrency": "FJD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Pacific/Fiji",
+        "name": "Pacific/Fiji",
+        "isDefault": true,
+        "value": "+12:00"
+      }
+    ],
+    "defaultTimeZone": "+12:00"
+  },
+  {
+    "id": "FK",
+    "code": "FLK",
+    "dialCode": "500",
+    "name": "Falkland Islands",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "FKP",
+        "name": "FKP",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "FKP"
+    ],
+    "defaultCurrency": "FKP",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Atlantic/Stanley",
+        "name": "Atlantic/Stanley",
+        "isDefault": true,
+        "value": "-03:00"
+      }
+    ],
+    "defaultTimeZone": "-03:00"
+  },
+  {
+    "id": "FR",
+    "code": "FRA",
+    "dialCode": "33",
+    "name": "France",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "defaultCurrency": "EUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Paris",
+        "name": "Europe/Paris",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "FO",
+    "code": "FRO",
+    "dialCode": "298",
+    "name": "Faroe Islands",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "DKK",
+        "name": "DKK",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "DKK"
+    ],
+    "defaultCurrency": "DKK",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Atlantic/Faroe",
+        "name": "Atlantic/Faroe",
+        "isDefault": true,
+        "value": "+01:00"
+      }
+    ],
+    "defaultTimeZone": "+01:00"
+  },
+  {
+    "id": "FM",
+    "code": "FSM",
+    "dialCode": "691",
+    "name": "Micronesia, Federated States Of",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "USD",
+        "name": "USD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "defaultCurrency": "USD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Pacific/Chuuk",
+        "name": "Pacific/Chuuk",
+        "isDefault": true,
+        "value": "+10:00"
+      },
+      {
+        "id": "Pacific/Pohnpei",
+        "name": "Pacific/Pohnpei",
+        "isDefault": true,
+        "value": "+11:00"
+      },
+      {
+        "id": "Pacific/Kosrae",
+        "name": "Pacific/Kosrae",
+        "isDefault": true,
+        "value": "+11:00"
+      }
+    ],
+    "defaultTimeZone": "+11:00"
+  },
+  {
+    "id": "GA",
+    "code": "GAB",
+    "dialCode": "241",
+    "name": "Gabon",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "XAF",
+        "name": "XAF",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "XAF"
+    ],
+    "defaultCurrency": "XAF",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Lagos",
+        "name": "Africa/Lagos",
+        "isDefault": true,
+        "value": "+01:00"
+      }
+    ],
+    "defaultTimeZone": "+01:00"
+  },
+  {
+    "id": "GB",
+    "code": "GBR",
+    "dialCode": "44",
+    "name": "United Kingdom",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "GBP",
+        "name": "GBP",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "GBP"
+    ],
+    "defaultCurrency": "GBP",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/London",
+        "name": "Europe/London",
+        "isDefault": true,
+        "value": "+01:00"
+      }
+    ],
+    "defaultTimeZone": "+01:00"
+  },
+  {
+    "id": "GE",
+    "code": "GEL",
+    "dialCode": null,
+    "name": "Gilbert and Ellice Islands",
+    "isActive": true,
+    "currencys": [],
+    "currencies": [],
+    "defaultCurrency": "USD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Tbilisi",
+        "name": "Asia/Tbilisi",
+        "isDefault": true,
+        "value": "+04:00"
+      }
+    ],
+    "defaultTimeZone": "+04:00"
+  },
+  {
+    "id": "GG",
+    "code": "GGY",
+    "dialCode": "44",
+    "name": "Guernsey",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "GBP",
+        "name": "GBP",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "GBP"
+    ],
+    "defaultCurrency": "GBP",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/London",
+        "name": "Europe/London",
+        "isDefault": true,
+        "value": "+01:00"
+      }
+    ],
+    "defaultTimeZone": "+01:00"
+  },
+  {
+    "id": "GH",
+    "code": "GHA",
+    "dialCode": "233",
+    "name": "Ghana",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "GHS",
+        "name": "GHS",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "GHS"
+    ],
+    "defaultCurrency": "GHS",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Accra",
+        "name": "Africa/Accra",
+        "isDefault": true,
+        "value": "+00:00"
+      }
+    ],
+    "defaultTimeZone": "+00:00"
+  },
+  {
+    "id": "GI",
+    "code": "GIB",
+    "dialCode": "350",
+    "name": "Gibraltar",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "GIP",
+        "name": "GIP",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "GIP"
+    ],
+    "defaultCurrency": "GIP",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Gibraltar",
+        "name": "Europe/Gibraltar",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "GN",
+    "code": "GIN",
+    "dialCode": "224",
+    "name": "Guinea",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "GNF",
+        "name": "GNF",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "GNF"
+    ],
+    "defaultCurrency": "GNF",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Abidjan",
+        "name": "Africa/Abidjan",
+        "isDefault": true,
+        "value": "+00:00"
+      }
+    ],
+    "defaultTimeZone": "+00:00"
+  },
+  {
+    "id": "GP",
+    "code": "GLP",
+    "dialCode": "590",
+    "name": "Guadeloupe",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "defaultCurrency": "EUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Port_of_Spain",
+        "name": "America/Port_of_Spain",
+        "isDefault": true,
+        "value": "-04:00"
+      }
+    ],
+    "defaultTimeZone": "-04:00"
+  },
+  {
+    "id": "GM",
+    "code": "GMB",
+    "dialCode": "220",
+    "name": "Gambia",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "GMD",
+        "name": "GMD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "GMD"
+    ],
+    "defaultCurrency": "GMD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Abidjan",
+        "name": "Africa/Abidjan",
+        "isDefault": true,
+        "value": "+00:00"
+      }
+    ],
+    "defaultTimeZone": "+00:00"
+  },
+  {
+    "id": "GW",
+    "code": "GNB",
+    "dialCode": "245",
+    "name": "Guinea-bissau",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "XOF",
+        "name": "XOF",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "defaultCurrency": "XOF",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Bissau",
+        "name": "Africa/Bissau",
+        "isDefault": true,
+        "value": "+00:00"
+      }
+    ],
+    "defaultTimeZone": "+00:00"
+  },
+  {
+    "id": "GQ",
+    "code": "GNQ",
+    "dialCode": "240",
+    "name": "Equatorial Guinea",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "XAF",
+        "name": "XAF",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "XAF"
+    ],
+    "defaultCurrency": "XAF",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Lagos",
+        "name": "Africa/Lagos",
+        "isDefault": true,
+        "value": "+01:00"
+      }
+    ],
+    "defaultTimeZone": "+01:00"
+  },
+  {
+    "id": "GR",
+    "code": "GRC",
+    "dialCode": "30",
+    "name": "Greece",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "defaultCurrency": "EUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Athens",
+        "name": "Europe/Athens",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "GD",
+    "code": "GRD",
+    "dialCode": "473",
+    "name": "Grenada",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "XCD",
+        "name": "XCD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "defaultCurrency": "XCD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Port_of_Spain",
+        "name": "America/Port_of_Spain",
+        "isDefault": true,
+        "value": "-04:00"
+      }
+    ],
+    "defaultTimeZone": "-04:00"
+  },
+  {
+    "id": "GL",
+    "code": "GRL",
+    "dialCode": "299",
+    "name": "Greenland",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "DKK",
+        "name": "DKK",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "DKK"
+    ],
+    "defaultCurrency": "DKK",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Godthab",
+        "name": "America/Godthab",
+        "isDefault": true,
+        "value": "-02:00"
+      },
+      {
+        "id": "America/Danmarkshavn",
+        "name": "America/Danmarkshavn",
+        "isDefault": true,
+        "value": "+00:00"
+      },
+      {
+        "id": "America/Scoresbysund",
+        "name": "America/Scoresbysund",
+        "isDefault": true,
+        "value": "+00:00"
+      },
+      {
+        "id": "America/Thule",
+        "name": "America/Thule",
+        "isDefault": true,
+        "value": "-03:00"
+      }
+    ],
+    "defaultTimeZone": "-03:00"
+  },
+  {
+    "id": "GT",
+    "code": "GTM",
+    "dialCode": "502",
+    "name": "Guatemala",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "GTQ",
+        "name": "GTQ",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "GTQ"
+    ],
+    "defaultCurrency": "GTQ",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Guatemala",
+        "name": "America/Guatemala",
+        "isDefault": true,
+        "value": "-06:00"
+      }
+    ],
+    "defaultTimeZone": "-06:00"
+  },
+  {
+    "id": "GF",
+    "code": "GUF",
+    "dialCode": "594",
+    "name": "French Guiana",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "defaultCurrency": "EUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Cayenne",
+        "name": "America/Cayenne",
+        "isDefault": true,
+        "value": "-03:00"
+      }
+    ],
+    "defaultTimeZone": "-03:00"
+  },
+  {
+    "id": "GU",
+    "code": "GUM",
+    "dialCode": "1 671",
+    "name": "Guam",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "USD",
+        "name": "USD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "defaultCurrency": "USD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Pacific/Guam",
+        "name": "Pacific/Guam",
+        "isDefault": true,
+        "value": "+10:00"
+      }
+    ],
+    "defaultTimeZone": "+10:00"
+  },
+  {
+    "id": "GY",
+    "code": "GUY",
+    "dialCode": "592",
+    "name": "Guyana",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "GYD",
+        "name": "GYD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "GYD"
+    ],
+    "defaultCurrency": "GYD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Guyana",
+        "name": "America/Guyana",
+        "isDefault": true,
+        "value": "-04:00"
+      }
+    ],
+    "defaultTimeZone": "-04:00"
+  },
+  {
+    "id": "HK",
+    "code": "HKG",
+    "dialCode": "852",
+    "name": "Hong Kong",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "HKD",
+        "name": "HKD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "HKD"
+    ],
+    "defaultCurrency": "HKD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Hong_Kong",
+        "name": "Asia/Hong_Kong",
+        "isDefault": true,
+        "value": "+08:00"
+      }
+    ],
+    "defaultTimeZone": "+08:00"
+  },
+  {
+    "id": "HM",
+    "code": "HMD",
+    "dialCode": null,
+    "name": "Heard Island And McDonald Islands",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "AUD",
+        "name": "AUD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "AUD"
+    ],
+    "defaultCurrency": "AUD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [],
+    "defaultTimeZone": ""
+  },
+  {
+    "id": "HN",
+    "code": "HND",
+    "dialCode": "504",
+    "name": "Honduras",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "HNL",
+        "name": "HNL",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "HNL"
+    ],
+    "defaultCurrency": "HNL",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Tegucigalpa",
+        "name": "America/Tegucigalpa",
+        "isDefault": true,
+        "value": "-06:00"
+      }
+    ],
+    "defaultTimeZone": "-06:00"
+  },
+  {
+    "id": "HR",
+    "code": "HRV",
+    "dialCode": "385",
+    "name": "Croatia",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "HRK",
+        "name": "HRK",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "HRK"
+    ],
+    "defaultCurrency": "HRK",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Belgrade",
+        "name": "Europe/Belgrade",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "HT",
+    "code": "HTI",
+    "dialCode": "509",
+    "name": "Haiti",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "HTG",
+        "name": "HTG",
+        "isDefault": true
+      },
+      {
+        "id": "USD",
+        "name": "USD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "HTG",
+      "USD"
+    ],
+    "defaultCurrency": "HTG",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Port-au-Prince",
+        "name": "America/Port-au-Prince",
+        "isDefault": true,
+        "value": "-05:00"
+      }
+    ],
+    "defaultTimeZone": "-05:00"
+  },
+  {
+    "id": "HU",
+    "code": "HUN",
+    "dialCode": "36",
+    "name": "Hungary",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "HUF",
+        "name": "HUF",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "HUF"
+    ],
+    "defaultCurrency": "HUF",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Budapest",
+        "name": "Europe/Budapest",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "ID",
+    "code": "IDN",
+    "dialCode": "62",
+    "name": "Indonesia",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "IDR",
+        "name": "IDR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "IDR"
+    ],
+    "defaultCurrency": "IDR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Jakarta",
+        "name": "Asia/Jakarta",
+        "isDefault": true,
+        "value": "+07:00"
+      },
+      {
+        "id": "Asia/Pontianak",
+        "name": "Asia/Pontianak",
+        "isDefault": true,
+        "value": "+07:00"
+      },
+      {
+        "id": "Asia/Makassar",
+        "name": "Asia/Makassar",
+        "isDefault": true,
+        "value": "+08:00"
+      },
+      {
+        "id": "Asia/Jayapura",
+        "name": "Asia/Jayapura",
+        "isDefault": true,
+        "value": "+09:00"
+      }
+    ],
+    "defaultTimeZone": "+09:00"
+  },
+  {
+    "id": "IM",
+    "code": "IMN",
+    "dialCode": "44",
+    "name": "Isle Of Man",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "GBP",
+        "name": "GBP",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "GBP"
+    ],
+    "defaultCurrency": "GBP",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/London",
+        "name": "Europe/London",
+        "isDefault": true,
+        "value": "+01:00"
+      }
+    ],
+    "defaultTimeZone": "+01:00"
+  },
+  {
+    "id": "IN",
+    "code": "IND",
+    "dialCode": "91",
+    "name": "India",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "INR",
+        "name": "INR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "INR"
+    ],
+    "defaultCurrency": "INR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Kolkata",
+        "name": "Asia/Kolkata",
+        "isDefault": true,
+        "value": "+05:30"
+      }
+    ],
+    "defaultTimeZone": "+05:30"
+  },
+  {
+    "id": "IO",
+    "code": "IOT",
+    "dialCode": "246",
+    "name": "British Indian Ocean Territory",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "USD",
+        "name": "USD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "defaultCurrency": "USD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Indian/Chagos",
+        "name": "Indian/Chagos",
+        "isDefault": true,
+        "value": "+06:00"
+      }
+    ],
+    "defaultTimeZone": "+06:00"
+  },
+  {
+    "id": "IE",
+    "code": "IRL",
+    "dialCode": "353",
+    "name": "Ireland",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "defaultCurrency": "EUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Dublin",
+        "name": "Europe/Dublin",
+        "isDefault": true,
+        "value": "+01:00"
+      }
+    ],
+    "defaultTimeZone": "+01:00"
+  },
+  {
+    "id": "IR",
+    "code": "IRN",
+    "dialCode": "98",
+    "name": "Iran, Islamic Republic Of",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "IRR",
+        "name": "IRR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "IRR"
+    ],
+    "defaultCurrency": "IRR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Tehran",
+        "name": "Asia/Tehran",
+        "isDefault": true,
+        "value": "+03:30"
+      }
+    ],
+    "defaultTimeZone": "+03:30"
+  },
+  {
+    "id": "IQ",
+    "code": "IRQ",
+    "dialCode": "964",
+    "name": "Iraq",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "IQD",
+        "name": "IQD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "IQD"
+    ],
+    "defaultCurrency": "IQD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Baghdad",
+        "name": "Asia/Baghdad",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "IS",
+    "code": "ISL",
+    "dialCode": "354",
+    "name": "Iceland",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "ISK",
+        "name": "ISK",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "ISK"
+    ],
+    "defaultCurrency": "ISK",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Atlantic/Reykjavik",
+        "name": "Atlantic/Reykjavik",
+        "isDefault": true,
+        "value": "+00:00"
+      }
+    ],
+    "defaultTimeZone": "+00:00"
+  },
+  {
+    "id": "IL",
+    "code": "ISR",
+    "dialCode": "972",
+    "name": "Israel",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "ILS",
+        "name": "ILS",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "ILS"
+    ],
+    "defaultCurrency": "ILS",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Jerusalem",
+        "name": "Asia/Jerusalem",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "IT",
+    "code": "ITA",
+    "dialCode": "39",
+    "name": "Italy",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "defaultCurrency": "EUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Rome",
+        "name": "Europe/Rome",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "JM",
+    "code": "JAM",
+    "dialCode": "1 876",
+    "name": "Jamaica",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "JMD",
+        "name": "JMD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "JMD"
+    ],
+    "defaultCurrency": "JMD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Jamaica",
+        "name": "America/Jamaica",
+        "isDefault": true,
+        "value": "-05:00"
+      }
+    ],
+    "defaultTimeZone": "-05:00"
+  },
+  {
+    "id": "JE",
+    "code": "JEY",
+    "dialCode": "44",
+    "name": "Jersey",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "GBP",
+        "name": "GBP",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "GBP"
+    ],
+    "defaultCurrency": "GBP",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/London",
+        "name": "Europe/London",
+        "isDefault": true,
+        "value": "+01:00"
+      }
+    ],
+    "defaultTimeZone": "+01:00"
+  },
+  {
+    "id": "JO",
+    "code": "JOR",
+    "dialCode": "962",
+    "name": "Jordan",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "JOD",
+        "name": "JOD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "JOD"
+    ],
+    "defaultCurrency": "JOD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Amman",
+        "name": "Asia/Amman",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "JP",
+    "code": "JPN",
+    "dialCode": "81",
+    "name": "Japan",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "JPY",
+        "name": "JPY",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "JPY"
+    ],
+    "defaultCurrency": "JPY",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Tokyo",
+        "name": "Asia/Tokyo",
+        "isDefault": true,
+        "value": "+09:00"
+      }
+    ],
+    "defaultTimeZone": "+09:00"
+  },
+  {
+    "id": "KZ",
+    "code": "KAZ",
+    "dialCode": "7",
+    "name": "Kazakhstan",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "KZT",
+        "name": "KZT",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "KZT"
+    ],
+    "defaultCurrency": "KZT",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Almaty",
+        "name": "Asia/Almaty",
+        "isDefault": true,
+        "value": "+06:00"
+      },
+      {
+        "id": "Asia/Qyzylorda",
+        "name": "Asia/Qyzylorda",
+        "isDefault": true,
+        "value": "+06:00"
+      },
+      {
+        "id": "Asia/Aqtobe",
+        "name": "Asia/Aqtobe",
+        "isDefault": true,
+        "value": "+05:00"
+      },
+      {
+        "id": "Asia/Aqtau",
+        "name": "Asia/Aqtau",
+        "isDefault": true,
+        "value": "+05:00"
+      },
+      {
+        "id": "Asia/Oral",
+        "name": "Asia/Oral",
+        "isDefault": true,
+        "value": "+05:00"
+      }
+    ],
+    "defaultTimeZone": "+05:00"
+  },
+  {
+    "id": "KE",
+    "code": "KEN",
+    "dialCode": "254",
+    "name": "Kenya",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "KES",
+        "name": "KES",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "KES"
+    ],
+    "defaultCurrency": "KES",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Nairobi",
+        "name": "Africa/Nairobi",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "KG",
+    "code": "KGZ",
+    "dialCode": "996",
+    "name": "Kyrgyzstan",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "KGS",
+        "name": "KGS",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "KGS"
+    ],
+    "defaultCurrency": "KGS",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Bishkek",
+        "name": "Asia/Bishkek",
+        "isDefault": true,
+        "value": "+06:00"
+      }
+    ],
+    "defaultTimeZone": "+06:00"
+  },
+  {
+    "id": "KH",
+    "code": "KHM",
+    "dialCode": "855",
+    "name": "Cambodia",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "KHR",
+        "name": "KHR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "KHR"
+    ],
+    "defaultCurrency": "KHR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Bangkok",
+        "name": "Asia/Bangkok",
+        "isDefault": true,
+        "value": "+07:00"
+      }
+    ],
+    "defaultTimeZone": "+07:00"
+  },
+  {
+    "id": "KI",
+    "code": "KIR",
+    "dialCode": "686",
+    "name": "Kiribati",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "AUD",
+        "name": "AUD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "AUD"
+    ],
+    "defaultCurrency": "AUD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Pacific/Tarawa",
+        "name": "Pacific/Tarawa",
+        "isDefault": true,
+        "value": "+12:00"
+      },
+      {
+        "id": "Pacific/Enderbury",
+        "name": "Pacific/Enderbury",
+        "isDefault": true,
+        "value": "+13:00"
+      },
+      {
+        "id": "Pacific/Kiritimati",
+        "name": "Pacific/Kiritimati",
+        "isDefault": true,
+        "value": "+14:00"
+      }
+    ],
+    "defaultTimeZone": "+14:00"
+  },
+  {
+    "id": "KN",
+    "code": "KNA",
+    "dialCode": "1 869",
+    "name": "Saint Kitts And Nevis",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "XCD",
+        "name": "XCD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "defaultCurrency": "XCD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Port_of_Spain",
+        "name": "America/Port_of_Spain",
+        "isDefault": true,
+        "value": "-04:00"
+      }
+    ],
+    "defaultTimeZone": "-04:00"
+  },
+  {
+    "id": "KR",
+    "code": "KOR",
+    "dialCode": "82",
+    "name": "Korea, Republic Of",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "KRW",
+        "name": "KRW",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "KRW"
+    ],
+    "defaultCurrency": "KRW",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Seoul",
+        "name": "Asia/Seoul",
+        "isDefault": true,
+        "value": "+09:00"
+      }
+    ],
+    "defaultTimeZone": "+09:00"
+  },
+  {
+    "id": "XK",
+    "code": "",
+    "dialCode": "383",
+    "name": "Kosovo",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "defaultCurrency": "EUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [],
+    "defaultTimeZone": ""
+  },
+  {
+    "id": "KW",
+    "code": "KWT",
+    "dialCode": "965",
+    "name": "Kuwait",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "KWD",
+        "name": "KWD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "KWD"
+    ],
+    "defaultCurrency": "KWD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Riyadh",
+        "name": "Asia/Riyadh",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "LA",
+    "code": "LAO",
+    "dialCode": "856",
+    "name": "Lao People's Democratic Republic",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "LAK",
+        "name": "LAK",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "LAK"
+    ],
+    "defaultCurrency": "LAK",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Bangkok",
+        "name": "Asia/Bangkok",
+        "isDefault": true,
+        "value": "+07:00"
+      }
+    ],
+    "defaultTimeZone": "+07:00"
+  },
+  {
+    "id": "LB",
+    "code": "LBN",
+    "dialCode": "961",
+    "name": "Lebanon",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "LBP",
+        "name": "LBP",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "LBP"
+    ],
+    "defaultCurrency": "LBP",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Beirut",
+        "name": "Asia/Beirut",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "LR",
+    "code": "LBR",
+    "dialCode": "231",
+    "name": "Liberia",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "LRD",
+        "name": "LRD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "LRD"
+    ],
+    "defaultCurrency": "LRD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Monrovia",
+        "name": "Africa/Monrovia",
+        "isDefault": true,
+        "value": "+00:00"
+      }
+    ],
+    "defaultTimeZone": "+00:00"
+  },
+  {
+    "id": "LY",
+    "code": "LBY",
+    "dialCode": "218",
+    "name": "Libya",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "LYD",
+        "name": "LYD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "LYD"
+    ],
+    "defaultCurrency": "LYD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Tripoli",
+        "name": "Africa/Tripoli",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "LC",
+    "code": "LCA",
+    "dialCode": "1 758",
+    "name": "Saint Lucia",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "XCD",
+        "name": "XCD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "defaultCurrency": "XCD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Port_of_Spain",
+        "name": "America/Port_of_Spain",
+        "isDefault": true,
+        "value": "-04:00"
+      }
+    ],
+    "defaultTimeZone": "-04:00"
+  },
+  {
+    "id": "LI",
+    "code": "LIE",
+    "dialCode": "423",
+    "name": "Liechtenstein",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "CHF",
+        "name": "CHF",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "CHF"
+    ],
+    "defaultCurrency": "CHF",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Zurich",
+        "name": "Europe/Zurich",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "LK",
+    "code": "LKA",
+    "dialCode": "94",
+    "name": "Sri Lanka",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "LKR",
+        "name": "LKR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "LKR"
+    ],
+    "defaultCurrency": "LKR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Colombo",
+        "name": "Asia/Colombo",
+        "isDefault": true,
+        "value": "+05:30"
+      }
+    ],
+    "defaultTimeZone": "+05:30"
+  },
+  {
+    "id": "LS",
+    "code": "LSO",
+    "dialCode": "266",
+    "name": "Lesotho",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "LSL",
+        "name": "LSL",
+        "isDefault": true
+      },
+      {
+        "id": "ZAR",
+        "name": "ZAR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "LSL",
+      "ZAR"
+    ],
+    "defaultCurrency": "LSL",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Johannesburg",
+        "name": "Africa/Johannesburg",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "LT",
+    "code": "LTU",
+    "dialCode": "370",
+    "name": "Lithuania",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "defaultCurrency": "EUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Vilnius",
+        "name": "Europe/Vilnius",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "LU",
+    "code": "LUX",
+    "dialCode": "352",
+    "name": "Luxembourg",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "defaultCurrency": "EUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Luxembourg",
+        "name": "Europe/Luxembourg",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "LV",
+    "code": "LVA",
+    "dialCode": "371",
+    "name": "Latvia",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "defaultCurrency": "EUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Riga",
+        "name": "Europe/Riga",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "MO",
+    "code": "MAC",
+    "dialCode": "853",
+    "name": "Macao",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "MOP",
+        "name": "MOP",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "MOP"
+    ],
+    "defaultCurrency": "MOP",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Macau",
+        "name": "Asia/Macau",
+        "isDefault": true,
+        "value": "+08:00"
+      }
+    ],
+    "defaultTimeZone": "+08:00"
+  },
+  {
+    "id": "MF",
+    "code": "MAF",
+    "dialCode": "590",
+    "name": "Saint Martin",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "defaultCurrency": "EUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Port_of_Spain",
+        "name": "America/Port_of_Spain",
+        "isDefault": true,
+        "value": "-04:00"
+      }
+    ],
+    "defaultTimeZone": "-04:00"
+  },
+  {
+    "id": "MA",
+    "code": "MAR",
+    "dialCode": "212",
+    "name": "Morocco",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "MAD",
+        "name": "MAD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "MAD"
+    ],
+    "defaultCurrency": "MAD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Casablanca",
+        "name": "Africa/Casablanca",
+        "isDefault": true,
+        "value": "+01:00"
+      }
+    ],
+    "defaultTimeZone": "+01:00"
+  },
+  {
+    "id": "MC",
+    "code": "MCO",
+    "dialCode": "377",
+    "name": "Monaco",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "defaultCurrency": "EUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Monaco",
+        "name": "Europe/Monaco",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "MD",
+    "code": "MDA",
+    "dialCode": "373",
+    "name": "Moldova",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "MDL",
+        "name": "MDL",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "MDL"
+    ],
+    "defaultCurrency": "MDL",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Chisinau",
+        "name": "Europe/Chisinau",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "MG",
+    "code": "MDG",
+    "dialCode": "261",
+    "name": "Madagascar",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "MGA",
+        "name": "MGA",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "MGA"
+    ],
+    "defaultCurrency": "MGA",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Nairobi",
+        "name": "Africa/Nairobi",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "MV",
+    "code": "MDV",
+    "dialCode": "960",
+    "name": "Maldives",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "MVR",
+        "name": "MVR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "MVR"
+    ],
+    "defaultCurrency": "MVR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Indian/Maldives",
+        "name": "Indian/Maldives",
+        "isDefault": true,
+        "value": "+05:00"
+      }
+    ],
+    "defaultTimeZone": "+05:00"
+  },
+  {
+    "id": "MX",
+    "code": "MEX",
+    "dialCode": "52",
+    "name": "Mexico",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "MXN",
+        "name": "MXN",
+        "isDefault": true
+      },
+      {
+        "id": "MXV",
+        "name": "MXV",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "MXN",
+      "MXV"
+    ],
+    "defaultCurrency": "MXN",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Mexico_City",
+        "name": "America/Mexico_City",
+        "isDefault": true,
+        "value": "-05:00"
+      },
+      {
+        "id": "America/Cancun",
+        "name": "America/Cancun",
+        "isDefault": true,
+        "value": "-05:00"
+      },
+      {
+        "id": "America/Merida",
+        "name": "America/Merida",
+        "isDefault": true,
+        "value": "-05:00"
+      },
+      {
+        "id": "America/Monterrey",
+        "name": "America/Monterrey",
+        "isDefault": true,
+        "value": "-05:00"
+      },
+      {
+        "id": "America/Matamoros",
+        "name": "America/Matamoros",
+        "isDefault": true,
+        "value": "-05:00"
+      },
+      {
+        "id": "America/Mazatlan",
+        "name": "America/Mazatlan",
+        "isDefault": true,
+        "value": "-06:00"
+      },
+      {
+        "id": "America/Chihuahua",
+        "name": "America/Chihuahua",
+        "isDefault": true,
+        "value": "-06:00"
+      },
+      {
+        "id": "America/Ojinaga",
+        "name": "America/Ojinaga",
+        "isDefault": true,
+        "value": "-06:00"
+      },
+      {
+        "id": "America/Hermosillo",
+        "name": "America/Hermosillo",
+        "isDefault": true,
+        "value": "-07:00"
+      },
+      {
+        "id": "America/Tijuana",
+        "name": "America/Tijuana",
+        "isDefault": true,
+        "value": "-07:00"
+      },
+      {
+        "id": "America/Santa_Isabel",
+        "name": "America/Santa_Isabel",
+        "isDefault": true,
+        "value": "-07:00"
+      },
+      {
+        "id": "America/Bahia_Banderas",
+        "name": "America/Bahia_Banderas",
+        "isDefault": true,
+        "value": "-05:00"
+      }
+    ],
+    "defaultTimeZone": "-05:00"
+  },
+  {
+    "id": "MH",
+    "code": "MHL",
+    "dialCode": "692",
+    "name": "Marshall Islands",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "USD",
+        "name": "USD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "defaultCurrency": "USD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Pacific/Majuro",
+        "name": "Pacific/Majuro",
+        "isDefault": true,
+        "value": "+12:00"
+      },
+      {
+        "id": "Pacific/Kwajalein",
+        "name": "Pacific/Kwajalein",
+        "isDefault": true,
+        "value": "+12:00"
+      }
+    ],
+    "defaultTimeZone": "+12:00"
+  },
+  {
+    "id": "MK",
+    "code": "MKD",
+    "dialCode": "389",
+    "name": "Macedonia, The Former Yugoslav Republic Of",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "MKD",
+        "name": "MKD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "MKD"
+    ],
+    "defaultCurrency": "MKD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Belgrade",
+        "name": "Europe/Belgrade",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "ML",
+    "code": "MLI",
+    "dialCode": "223",
+    "name": "Mali",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "XOF",
+        "name": "XOF",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "defaultCurrency": "XOF",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Abidjan",
+        "name": "Africa/Abidjan",
+        "isDefault": true,
+        "value": "+00:00"
+      }
+    ],
+    "defaultTimeZone": "+00:00"
+  },
+  {
+    "id": "MT",
+    "code": "MLT",
+    "dialCode": "356",
+    "name": "Malta",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "defaultCurrency": "EUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Malta",
+        "name": "Europe/Malta",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "MM",
+    "code": "MMR",
+    "dialCode": "95",
+    "name": "Myanmar",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "MMK",
+        "name": "MMK",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "MMK"
+    ],
+    "defaultCurrency": "MMK",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Rangoon",
+        "name": "Asia/Rangoon",
+        "isDefault": true,
+        "value": "+06:30"
+      }
+    ],
+    "defaultTimeZone": "+06:30"
+  },
+  {
+    "id": "ME",
+    "code": "MNE",
+    "dialCode": "382",
+    "name": "Montenegro",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "defaultCurrency": "EUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Belgrade",
+        "name": "Europe/Belgrade",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "MN",
+    "code": "MNG",
+    "dialCode": "976",
+    "name": "Mongolia",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "MNT",
+        "name": "MNT",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "MNT"
+    ],
+    "defaultCurrency": "MNT",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Ulaanbaatar",
+        "name": "Asia/Ulaanbaatar",
+        "isDefault": true,
+        "value": "+08:00"
+      },
+      {
+        "id": "Asia/Hovd",
+        "name": "Asia/Hovd",
+        "isDefault": true,
+        "value": "+07:00"
+      },
+      {
+        "id": "Asia/Choibalsan",
+        "name": "Asia/Choibalsan",
+        "isDefault": true,
+        "value": "+08:00"
+      }
+    ],
+    "defaultTimeZone": "+08:00"
+  },
+  {
+    "id": "MP",
+    "code": "MNP",
+    "dialCode": "1 670",
+    "name": "Northern Mariana Islands",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "USD",
+        "name": "USD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "defaultCurrency": "USD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Pacific/Guam",
+        "name": "Pacific/Guam",
+        "isDefault": true,
+        "value": "+10:00"
+      }
+    ],
+    "defaultTimeZone": "+10:00"
+  },
+  {
+    "id": "MZ",
+    "code": "MOZ",
+    "dialCode": "258",
+    "name": "Mozambique",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "MZN",
+        "name": "MZN",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "MZN"
+    ],
+    "defaultCurrency": "MZN",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Maputo",
+        "name": "Africa/Maputo",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "MR",
+    "code": "MRT",
+    "dialCode": "222",
+    "name": "Mauritania",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "MRO",
+        "name": "MRO",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "MRO"
+    ],
+    "defaultCurrency": "MRO",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Abidjan",
+        "name": "Africa/Abidjan",
+        "isDefault": true,
+        "value": "+00:00"
+      }
+    ],
+    "defaultTimeZone": "+00:00"
+  },
+  {
+    "id": "MS",
+    "code": "MSR",
+    "dialCode": "1 664",
+    "name": "Montserrat",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "XCD",
+        "name": "XCD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "defaultCurrency": "XCD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Port_of_Spain",
+        "name": "America/Port_of_Spain",
+        "isDefault": true,
+        "value": "-04:00"
+      }
+    ],
+    "defaultTimeZone": "-04:00"
+  },
+  {
+    "id": "MQ",
+    "code": "MTQ",
+    "dialCode": "596",
+    "name": "Martinique",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "defaultCurrency": "EUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Martinique",
+        "name": "America/Martinique",
+        "isDefault": true,
+        "value": "-04:00"
+      }
+    ],
+    "defaultTimeZone": "-04:00"
+  },
+  {
+    "id": "MU",
+    "code": "MUS",
+    "dialCode": "230",
+    "name": "Mauritius",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "MUR",
+        "name": "MUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "MUR"
+    ],
+    "defaultCurrency": "MUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Indian/Mauritius",
+        "name": "Indian/Mauritius",
+        "isDefault": true,
+        "value": "+04:00"
+      }
+    ],
+    "defaultTimeZone": "+04:00"
+  },
+  {
+    "id": "MW",
+    "code": "MWI",
+    "dialCode": "265",
+    "name": "Malawi",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "MWK",
+        "name": "MWK",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "MWK"
+    ],
+    "defaultCurrency": "MWK",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Maputo",
+        "name": "Africa/Maputo",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "MY",
+    "code": "MYS",
+    "dialCode": "60",
+    "name": "Malaysia",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "MYR",
+        "name": "MYR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "MYR"
+    ],
+    "defaultCurrency": "MYR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Kuala_Lumpur",
+        "name": "Asia/Kuala_Lumpur",
+        "isDefault": true,
+        "value": "+08:00"
+      },
+      {
+        "id": "Asia/Kuching",
+        "name": "Asia/Kuching",
+        "isDefault": true,
+        "value": "+08:00"
+      }
+    ],
+    "defaultTimeZone": "+08:00"
+  },
+  {
+    "id": "YT",
+    "code": "MYT",
+    "dialCode": "262",
+    "name": "Mayotte",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "defaultCurrency": "EUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Nairobi",
+        "name": "Africa/Nairobi",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "NA",
+    "code": "NAM",
+    "dialCode": "264",
+    "name": "Namibia",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "NAD",
+        "name": "NAD",
+        "isDefault": true
+      },
+      {
+        "id": "ZAR",
+        "name": "ZAR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "NAD",
+      "ZAR"
+    ],
+    "defaultCurrency": "NAD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Windhoek",
+        "name": "Africa/Windhoek",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "NC",
+    "code": "NCL",
+    "dialCode": "687",
+    "name": "New Caledonia",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "XPF",
+        "name": "XPF",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "XPF"
+    ],
+    "defaultCurrency": "XPF",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Pacific/Noumea",
+        "name": "Pacific/Noumea",
+        "isDefault": true,
+        "value": "+11:00"
+      }
+    ],
+    "defaultTimeZone": "+11:00"
+  },
+  {
+    "id": "NE",
+    "code": "NER",
+    "dialCode": "227",
+    "name": "Niger",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "XOF",
+        "name": "XOF",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "defaultCurrency": "XOF",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Lagos",
+        "name": "Africa/Lagos",
+        "isDefault": true,
+        "value": "+01:00"
+      }
+    ],
+    "defaultTimeZone": "+01:00"
+  },
+  {
+    "id": "NF",
+    "code": "NFK",
+    "dialCode": "672",
+    "name": "Norfolk Island",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "AUD",
+        "name": "AUD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "AUD"
+    ],
+    "defaultCurrency": "AUD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Pacific/Norfolk",
+        "name": "Pacific/Norfolk",
+        "isDefault": true,
+        "value": "+11:00"
+      }
+    ],
+    "defaultTimeZone": "+11:00"
+  },
+  {
+    "id": "NG",
+    "code": "NGA",
+    "dialCode": "234",
+    "name": "Nigeria",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "NGN",
+        "name": "NGN",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "NGN"
+    ],
+    "defaultCurrency": "NGN",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Lagos",
+        "name": "Africa/Lagos",
+        "isDefault": true,
+        "value": "+01:00"
+      }
+    ],
+    "defaultTimeZone": "+01:00"
+  },
+  {
+    "id": "NI",
+    "code": "NIC",
+    "dialCode": "505",
+    "name": "Nicaragua",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "NIO",
+        "name": "NIO",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "NIO"
+    ],
+    "defaultCurrency": "NIO",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Managua",
+        "name": "America/Managua",
+        "isDefault": true,
+        "value": "-06:00"
+      }
+    ],
+    "defaultTimeZone": "-06:00"
+  },
+  {
+    "id": "NU",
+    "code": "NIU",
+    "dialCode": "683",
+    "name": "Niue",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "NZD",
+        "name": "NZD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "NZD"
+    ],
+    "defaultCurrency": "NZD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Pacific/Niue",
+        "name": "Pacific/Niue",
+        "isDefault": true,
+        "value": "-11:00"
+      }
+    ],
+    "defaultTimeZone": "-11:00"
+  },
+  {
+    "id": "NL",
+    "code": "NLD",
+    "dialCode": "31",
+    "name": "Netherlands",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "defaultCurrency": "EUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Amsterdam",
+        "name": "Europe/Amsterdam",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "NO",
+    "code": "NOR",
+    "dialCode": "47",
+    "name": "Norway",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "NOK",
+        "name": "NOK",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "NOK"
+    ],
+    "defaultCurrency": "NOK",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Oslo",
+        "name": "Europe/Oslo",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "NP",
+    "code": "NPL",
+    "dialCode": "977",
+    "name": "Nepal",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "NPR",
+        "name": "NPR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "NPR"
+    ],
+    "defaultCurrency": "NPR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Kathmandu",
+        "name": "Asia/Kathmandu",
+        "isDefault": true,
+        "value": "+05:45"
+      }
+    ],
+    "defaultTimeZone": "+05:45"
+  },
+  {
+    "id": "NR",
+    "code": "NRU",
+    "dialCode": "674",
+    "name": "Nauru",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "AUD",
+        "name": "AUD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "AUD"
+    ],
+    "defaultCurrency": "AUD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Pacific/Nauru",
+        "name": "Pacific/Nauru",
+        "isDefault": true,
+        "value": "+12:00"
+      }
+    ],
+    "defaultTimeZone": "+12:00"
+  },
+  {
+    "id": "NZ",
+    "code": "NZL",
+    "dialCode": "64",
+    "name": "New Zealand",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "NZD",
+        "name": "NZD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "NZD"
+    ],
+    "defaultCurrency": "NZD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Pacific/Auckland",
+        "name": "Pacific/Auckland",
+        "isDefault": true,
+        "value": "+13:00"
+      },
+      {
+        "id": "Pacific/Chatham",
+        "name": "Pacific/Chatham",
+        "isDefault": true,
+        "value": "+13:45"
+      }
+    ],
+    "defaultTimeZone": "+13:45"
+  },
+  {
+    "id": "OM",
+    "code": "OMN",
+    "dialCode": "968",
+    "name": "Oman",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "OMR",
+        "name": "OMR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "OMR"
+    ],
+    "defaultCurrency": "OMR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Dubai",
+        "name": "Asia/Dubai",
+        "isDefault": true,
+        "value": "+04:00"
+      }
+    ],
+    "defaultTimeZone": "+04:00"
+  },
+  {
+    "id": "PK",
+    "code": "PAK",
+    "dialCode": "92",
+    "name": "Pakistan",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "PKR",
+        "name": "PKR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "PKR"
+    ],
+    "defaultCurrency": "PKR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Karachi",
+        "name": "Asia/Karachi",
+        "isDefault": true,
+        "value": "+05:00"
+      }
+    ],
+    "defaultTimeZone": "+05:00"
+  },
+  {
+    "id": "PA",
+    "code": "PAN",
+    "dialCode": "507",
+    "name": "Panama",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "PAB",
+        "name": "PAB",
+        "isDefault": true
+      },
+      {
+        "id": "USD",
+        "name": "USD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "PAB",
+      "USD"
+    ],
+    "defaultCurrency": "PAB",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Panama",
+        "name": "America/Panama",
+        "isDefault": true,
+        "value": "-05:00"
+      }
+    ],
+    "defaultTimeZone": "-05:00"
+  },
+  {
+    "id": "PN",
+    "code": "PCN",
+    "dialCode": "872",
+    "name": "Pitcairn",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "NZD",
+        "name": "NZD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "NZD"
+    ],
+    "defaultCurrency": "NZD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Pacific/Pitcairn",
+        "name": "Pacific/Pitcairn",
+        "isDefault": true,
+        "value": "-08:00"
+      }
+    ],
+    "defaultTimeZone": "-08:00"
+  },
+  {
+    "id": "PE",
+    "code": "PER",
+    "dialCode": "51",
+    "name": "Peru",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "PEN",
+        "name": "PEN",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "PEN"
+    ],
+    "defaultCurrency": "PEN",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Lima",
+        "name": "America/Lima",
+        "isDefault": true,
+        "value": "-05:00"
+      }
+    ],
+    "defaultTimeZone": "-05:00"
+  },
+  {
+    "id": "PH",
+    "code": "PHL",
+    "dialCode": "63",
+    "name": "Philippines",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "PHP",
+        "name": "PHP",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "PHP"
+    ],
+    "defaultCurrency": "PHP",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Manila",
+        "name": "Asia/Manila",
+        "isDefault": true,
+        "value": "+08:00"
+      }
+    ],
+    "defaultTimeZone": "+08:00"
+  },
+  {
+    "id": "PW",
+    "code": "PLW",
+    "dialCode": "680",
+    "name": "Palau",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "USD",
+        "name": "USD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "defaultCurrency": "USD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Pacific/Palau",
+        "name": "Pacific/Palau",
+        "isDefault": true,
+        "value": "+09:00"
+      }
+    ],
+    "defaultTimeZone": "+09:00"
+  },
+  {
+    "id": "PG",
+    "code": "PNG",
+    "dialCode": "675",
+    "name": "Papua New Guinea",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "PGK",
+        "name": "PGK",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "PGK"
+    ],
+    "defaultCurrency": "PGK",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Pacific/Port_Moresby",
+        "name": "Pacific/Port_Moresby",
+        "isDefault": true,
+        "value": "+10:00"
+      },
+      {
+        "id": "Pacific/Bougainville",
+        "name": "Pacific/Bougainville",
+        "isDefault": true,
+        "value": "+11:00"
+      }
+    ],
+    "defaultTimeZone": "+11:00"
+  },
+  {
+    "id": "PL",
+    "code": "POL",
+    "dialCode": "48",
+    "name": "Poland",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "PLN",
+        "name": "PLN",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "PLN"
+    ],
+    "defaultCurrency": "PLN",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Warsaw",
+        "name": "Europe/Warsaw",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "PR",
+    "code": "PRI",
+    "dialCode": "1 787",
+    "name": "Puerto Rico",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "USD",
+        "name": "USD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "defaultCurrency": "USD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Puerto_Rico",
+        "name": "America/Puerto_Rico",
+        "isDefault": true,
+        "value": "-04:00"
+      }
+    ],
+    "defaultTimeZone": "-04:00"
+  },
+  {
+    "id": "KP",
+    "code": "PRK",
+    "dialCode": "850",
+    "name": "Korea, Democratic People's Republic Of",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "KPW",
+        "name": "KPW",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "KPW"
+    ],
+    "defaultCurrency": "KPW",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Pyongyang",
+        "name": "Asia/Pyongyang",
+        "isDefault": true,
+        "value": "+08:30"
+      }
+    ],
+    "defaultTimeZone": "+08:30"
+  },
+  {
+    "id": "PT",
+    "code": "PRT",
+    "dialCode": "351",
+    "name": "Portugal",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "defaultCurrency": "EUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Lisbon",
+        "name": "Europe/Lisbon",
+        "isDefault": true,
+        "value": "+01:00"
+      },
+      {
+        "id": "Atlantic/Madeira",
+        "name": "Atlantic/Madeira",
+        "isDefault": true,
+        "value": "+01:00"
+      },
+      {
+        "id": "Atlantic/Azores",
+        "name": "Atlantic/Azores",
+        "isDefault": true,
+        "value": "+00:00"
+      }
+    ],
+    "defaultTimeZone": "+00:00"
+  },
+  {
+    "id": "PY",
+    "code": "PRY",
+    "dialCode": "595",
+    "name": "Paraguay",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "PYG",
+        "name": "PYG",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "PYG"
+    ],
+    "defaultCurrency": "PYG",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Asuncion",
+        "name": "America/Asuncion",
+        "isDefault": true,
+        "value": "-03:00"
+      }
+    ],
+    "defaultTimeZone": "-03:00"
+  },
+  {
+    "id": "PS",
+    "code": "PSE",
+    "dialCode": "970",
+    "name": "Palestinian Territory, Occupied",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "JOD",
+        "name": "JOD",
+        "isDefault": true
+      },
+      {
+        "id": "EGP",
+        "name": "EGP",
+        "isDefault": true
+      },
+      {
+        "id": "ILS",
+        "name": "ILS",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "JOD",
+      "EGP",
+      "ILS"
+    ],
+    "defaultCurrency": "JOD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Gaza",
+        "name": "Asia/Gaza",
+        "isDefault": true,
+        "value": "+03:00"
+      },
+      {
+        "id": "Asia/Hebron",
+        "name": "Asia/Hebron",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "PF",
+    "code": "PYF",
+    "dialCode": "689",
+    "name": "French Polynesia",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "XPF",
+        "name": "XPF",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "XPF"
+    ],
+    "defaultCurrency": "XPF",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Pacific/Tahiti",
+        "name": "Pacific/Tahiti",
+        "isDefault": true,
+        "value": "-10:00"
+      },
+      {
+        "id": "Pacific/Marquesas",
+        "name": "Pacific/Marquesas",
+        "isDefault": true,
+        "value": "-09:30"
+      },
+      {
+        "id": "Pacific/Gambier",
+        "name": "Pacific/Gambier",
+        "isDefault": true,
+        "value": "-09:00"
+      }
+    ],
+    "defaultTimeZone": "-09:00"
+  },
+  {
+    "id": "QA",
+    "code": "QAT",
+    "dialCode": "974",
+    "name": "Qatar",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "QAR",
+        "name": "QAR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "QAR"
+    ],
+    "defaultCurrency": "QAR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Qatar",
+        "name": "Asia/Qatar",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "RE",
+    "code": "REU",
+    "dialCode": "262",
+    "name": "Reunion",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "defaultCurrency": "EUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Indian/Reunion",
+        "name": "Indian/Reunion",
+        "isDefault": true,
+        "value": "+04:00"
+      }
+    ],
+    "defaultTimeZone": "+04:00"
+  },
+  {
+    "id": "RO",
+    "code": "ROU",
+    "dialCode": "40",
+    "name": "Romania",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "RON",
+        "name": "RON",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "RON"
+    ],
+    "defaultCurrency": "RON",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Bucharest",
+        "name": "Europe/Bucharest",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "RU",
+    "code": "RUS",
+    "dialCode": "7",
+    "name": "Russian Federation",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "RUB",
+        "name": "RUB",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "RUB"
+    ],
+    "defaultCurrency": "RUB",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Kaliningrad",
+        "name": "Europe/Kaliningrad",
+        "isDefault": true,
+        "value": "+02:00"
+      },
+      {
+        "id": "Europe/Moscow",
+        "name": "Europe/Moscow",
+        "isDefault": true,
+        "value": "+03:00"
+      },
+      {
+        "id": "Europe/Simferopol",
+        "name": "Europe/Simferopol",
+        "isDefault": true,
+        "value": "+03:00"
+      },
+      {
+        "id": "Europe/Volgograd",
+        "name": "Europe/Volgograd",
+        "isDefault": true,
+        "value": "+03:00"
+      },
+      {
+        "id": "Europe/Samara",
+        "name": "Europe/Samara",
+        "isDefault": true,
+        "value": "+04:00"
+      },
+      {
+        "id": "Asia/Yekaterinburg",
+        "name": "Asia/Yekaterinburg",
+        "isDefault": true,
+        "value": "+05:00"
+      },
+      {
+        "id": "Asia/Omsk",
+        "name": "Asia/Omsk",
+        "isDefault": true,
+        "value": "+06:00"
+      },
+      {
+        "id": "Asia/Novosibirsk",
+        "name": "Asia/Novosibirsk",
+        "isDefault": true,
+        "value": "+07:00"
+      },
+      {
+        "id": "Asia/Novokuznetsk",
+        "name": "Asia/Novokuznetsk",
+        "isDefault": true,
+        "value": "+07:00"
+      },
+      {
+        "id": "Asia/Krasnoyarsk",
+        "name": "Asia/Krasnoyarsk",
+        "isDefault": true,
+        "value": "+07:00"
+      },
+      {
+        "id": "Asia/Irkutsk",
+        "name": "Asia/Irkutsk",
+        "isDefault": true,
+        "value": "+08:00"
+      },
+      {
+        "id": "Asia/Chita",
+        "name": "Asia/Chita",
+        "isDefault": true,
+        "value": "+09:00"
+      },
+      {
+        "id": "Asia/Yakutsk",
+        "name": "Asia/Yakutsk",
+        "isDefault": true,
+        "value": "+09:00"
+      },
+      {
+        "id": "Asia/Khandyga",
+        "name": "Asia/Khandyga",
+        "isDefault": true,
+        "value": "+09:00"
+      },
+      {
+        "id": "Asia/Vladivostok",
+        "name": "Asia/Vladivostok",
+        "isDefault": true,
+        "value": "+10:00"
+      },
+      {
+        "id": "Asia/Sakhalin",
+        "name": "Asia/Sakhalin",
+        "isDefault": true,
+        "value": "+11:00"
+      },
+      {
+        "id": "Asia/Ust-Nera",
+        "name": "Asia/Ust-Nera",
+        "isDefault": true,
+        "value": "+10:00"
+      },
+      {
+        "id": "Asia/Magadan",
+        "name": "Asia/Magadan",
+        "isDefault": true,
+        "value": "+11:00"
+      },
+      {
+        "id": "Asia/Srednekolymsk",
+        "name": "Asia/Srednekolymsk",
+        "isDefault": true,
+        "value": "+11:00"
+      },
+      {
+        "id": "Asia/Kamchatka",
+        "name": "Asia/Kamchatka",
+        "isDefault": true,
+        "value": "+12:00"
+      },
+      {
+        "id": "Asia/Anadyr",
+        "name": "Asia/Anadyr",
+        "isDefault": true,
+        "value": "+12:00"
+      }
+    ],
+    "defaultTimeZone": "+12:00"
+  },
+  {
+    "id": "RW",
+    "code": "RWA",
+    "dialCode": "250",
+    "name": "Rwanda",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "RWF",
+        "name": "RWF",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "RWF"
+    ],
+    "defaultCurrency": "RWF",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Maputo",
+        "name": "Africa/Maputo",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "SA",
+    "code": "SAU",
+    "dialCode": "966",
+    "name": "Saudi Arabia",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "SAR",
+        "name": "SAR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "SAR"
+    ],
+    "defaultCurrency": "SAR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Riyadh",
+        "name": "Asia/Riyadh",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "SD",
+    "code": "SDN",
+    "dialCode": "249",
+    "name": "Sudan",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "SDG",
+        "name": "SDG",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "SDG"
+    ],
+    "defaultCurrency": "SDG",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Khartoum",
+        "name": "Africa/Khartoum",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "SN",
+    "code": "SEN",
+    "dialCode": "221",
+    "name": "Senegal",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "XOF",
+        "name": "XOF",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "defaultCurrency": "XOF",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Abidjan",
+        "name": "Africa/Abidjan",
+        "isDefault": true,
+        "value": "+00:00"
+      }
+    ],
+    "defaultTimeZone": "+00:00"
+  },
+  {
+    "id": "SG",
+    "code": "SGP",
+    "dialCode": "65",
+    "name": "Singapore",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "SGD",
+        "name": "SGD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "SGD"
+    ],
+    "defaultCurrency": "SGD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Singapore",
+        "name": "Asia/Singapore",
+        "isDefault": true,
+        "value": "+08:00"
+      }
+    ],
+    "defaultTimeZone": "+08:00"
+  },
+  {
+    "id": "GS",
+    "code": "SGS",
+    "dialCode": null,
+    "name": "South Georgia And The South Sandwich Islands",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "GBP",
+        "name": "GBP",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "GBP"
+    ],
+    "defaultCurrency": "GBP",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Atlantic/South_Georgia",
+        "name": "Atlantic/South_Georgia",
+        "isDefault": true,
+        "value": "-02:00"
+      }
+    ],
+    "defaultTimeZone": "-02:00"
+  },
+  {
+    "id": "SJ",
+    "code": "SJM",
+    "dialCode": "47",
+    "name": "Svalbard And Jan Mayen",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "NOK",
+        "name": "NOK",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "NOK"
+    ],
+    "defaultCurrency": "NOK",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Oslo",
+        "name": "Europe/Oslo",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "SB",
+    "code": "SLB",
+    "dialCode": "677",
+    "name": "Solomon Islands",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "SBD",
+        "name": "SBD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "SBD"
+    ],
+    "defaultCurrency": "SBD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Pacific/Guadalcanal",
+        "name": "Pacific/Guadalcanal",
+        "isDefault": true,
+        "value": "+11:00"
+      }
+    ],
+    "defaultTimeZone": "+11:00"
+  },
+  {
+    "id": "SL",
+    "code": "SLE",
+    "dialCode": "232",
+    "name": "Sierra Leone",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "SLL",
+        "name": "SLL",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "SLL"
+    ],
+    "defaultCurrency": "SLL",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Abidjan",
+        "name": "Africa/Abidjan",
+        "isDefault": true,
+        "value": "+00:00"
+      }
+    ],
+    "defaultTimeZone": "+00:00"
+  },
+  {
+    "id": "SV",
+    "code": "SLV",
+    "dialCode": "503",
+    "name": "El Salvador",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "USD",
+        "name": "USD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "defaultCurrency": "USD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/El_Salvador",
+        "name": "America/El_Salvador",
+        "isDefault": true,
+        "value": "-06:00"
+      }
+    ],
+    "defaultTimeZone": "-06:00"
+  },
+  {
+    "id": "SM",
+    "code": "SMR",
+    "dialCode": "378",
+    "name": "San Marino",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "defaultCurrency": "EUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Rome",
+        "name": "Europe/Rome",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "SO",
+    "code": "SOM",
+    "dialCode": "252",
+    "name": "Somalia",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "SOS",
+        "name": "SOS",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "SOS"
+    ],
+    "defaultCurrency": "SOS",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Nairobi",
+        "name": "Africa/Nairobi",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "PM",
+    "code": "SPM",
+    "dialCode": "508",
+    "name": "Saint Pierre And Miquelon",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "defaultCurrency": "EUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Miquelon",
+        "name": "America/Miquelon",
+        "isDefault": true,
+        "value": "-02:00"
+      }
+    ],
+    "defaultTimeZone": "-02:00"
+  },
+  {
+    "id": "RS",
+    "code": "SRB",
+    "dialCode": "381",
+    "name": "Serbia",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "RSD",
+        "name": "RSD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "RSD"
+    ],
+    "defaultCurrency": "RSD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Belgrade",
+        "name": "Europe/Belgrade",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "SS",
+    "code": "SSD",
+    "dialCode": "211",
+    "name": "South Sudan",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "SSP",
+        "name": "SSP",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "SSP"
+    ],
+    "defaultCurrency": "SSP",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Khartoum",
+        "name": "Africa/Khartoum",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "ST",
+    "code": "STP",
+    "dialCode": "239",
+    "name": "Sao Tome and Principe",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "STD",
+        "name": "STD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "STD"
+    ],
+    "defaultCurrency": "STD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Abidjan",
+        "name": "Africa/Abidjan",
+        "isDefault": true,
+        "value": "+00:00"
+      }
+    ],
+    "defaultTimeZone": "+00:00"
+  },
+  {
+    "id": "SR",
+    "code": "SUR",
+    "dialCode": "597",
+    "name": "Suriname",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "SRD",
+        "name": "SRD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "SRD"
+    ],
+    "defaultCurrency": "SRD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Paramaribo",
+        "name": "America/Paramaribo",
+        "isDefault": true,
+        "value": "-03:00"
+      }
+    ],
+    "defaultTimeZone": "-03:00"
+  },
+  {
+    "id": "SK",
+    "code": "SKM",
+    "dialCode": null,
+    "name": "Sikkim",
+    "isActive": true,
+    "currencys": [],
+    "currencies": [],
+    "defaultCurrency": "USD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Prague",
+        "name": "Europe/Prague",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "SI",
+    "code": "SVN",
+    "dialCode": "386",
+    "name": "Slovenia",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "defaultCurrency": "EUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Belgrade",
+        "name": "Europe/Belgrade",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "SE",
+    "code": "SWE",
+    "dialCode": "46",
+    "name": "Sweden",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "SEK",
+        "name": "SEK",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "SEK"
+    ],
+    "defaultCurrency": "SEK",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Stockholm",
+        "name": "Europe/Stockholm",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "SZ",
+    "code": "SWZ",
+    "dialCode": "268",
+    "name": "Swaziland",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "SZL",
+        "name": "SZL",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "SZL"
+    ],
+    "defaultCurrency": "SZL",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Johannesburg",
+        "name": "Africa/Johannesburg",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "SX",
+    "code": "SXM",
+    "dialCode": "1 721",
+    "name": "Sint Maarten",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "ANG",
+        "name": "ANG",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "ANG"
+    ],
+    "defaultCurrency": "ANG",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Curacao",
+        "name": "America/Curacao",
+        "isDefault": true,
+        "value": "-04:00"
+      }
+    ],
+    "defaultTimeZone": "-04:00"
+  },
+  {
+    "id": "SC",
+    "code": "SYC",
+    "dialCode": "248",
+    "name": "Seychelles",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "SCR",
+        "name": "SCR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "SCR"
+    ],
+    "defaultCurrency": "SCR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Indian/Mahe",
+        "name": "Indian/Mahe",
+        "isDefault": true,
+        "value": "+04:00"
+      }
+    ],
+    "defaultTimeZone": "+04:00"
+  },
+  {
+    "id": "SY",
+    "code": "SYR",
+    "dialCode": "963",
+    "name": "Syrian Arab Republic",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "SYP",
+        "name": "SYP",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "SYP"
+    ],
+    "defaultCurrency": "SYP",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Damascus",
+        "name": "Asia/Damascus",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "TC",
+    "code": "TCA",
+    "dialCode": "1 649",
+    "name": "Turks And Caicos Islands",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "USD",
+        "name": "USD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "defaultCurrency": "USD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Grand_Turk",
+        "name": "America/Grand_Turk",
+        "isDefault": true,
+        "value": "-04:00"
+      }
+    ],
+    "defaultTimeZone": "-04:00"
+  },
+  {
+    "id": "TD",
+    "code": "TCD",
+    "dialCode": "235",
+    "name": "Chad",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "XAF",
+        "name": "XAF",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "XAF"
+    ],
+    "defaultCurrency": "XAF",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Ndjamena",
+        "name": "Africa/Ndjamena",
+        "isDefault": true,
+        "value": "+01:00"
+      }
+    ],
+    "defaultTimeZone": "+01:00"
+  },
+  {
+    "id": "TG",
+    "code": "TGO",
+    "dialCode": "228",
+    "name": "Togo",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "XOF",
+        "name": "XOF",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "defaultCurrency": "XOF",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Abidjan",
+        "name": "Africa/Abidjan",
+        "isDefault": true,
+        "value": "+00:00"
+      }
+    ],
+    "defaultTimeZone": "+00:00"
+  },
+  {
+    "id": "TH",
+    "code": "THA",
+    "dialCode": "66",
+    "name": "Thailand",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "THB",
+        "name": "THB",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "THB"
+    ],
+    "defaultCurrency": "THB",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Bangkok",
+        "name": "Asia/Bangkok",
+        "isDefault": true,
+        "value": "+07:00"
+      }
+    ],
+    "defaultTimeZone": "+07:00"
+  },
+  {
+    "id": "TJ",
+    "code": "TJK",
+    "dialCode": "992",
+    "name": "Tajikistan",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "TJS",
+        "name": "TJS",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "TJS"
+    ],
+    "defaultCurrency": "TJS",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Dushanbe",
+        "name": "Asia/Dushanbe",
+        "isDefault": true,
+        "value": "+05:00"
+      }
+    ],
+    "defaultTimeZone": "+05:00"
+  },
+  {
+    "id": "TK",
+    "code": "TKL",
+    "dialCode": "690",
+    "name": "Tokelau",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "NZD",
+        "name": "NZD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "NZD"
+    ],
+    "defaultCurrency": "NZD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Pacific/Fakaofo",
+        "name": "Pacific/Fakaofo",
+        "isDefault": true,
+        "value": "+13:00"
+      }
+    ],
+    "defaultTimeZone": "+13:00"
+  },
+  {
+    "id": "TM",
+    "code": "TKM",
+    "dialCode": "993",
+    "name": "Turkmenistan",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "TMT",
+        "name": "TMT",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "TMT"
+    ],
+    "defaultCurrency": "TMT",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Ashgabat",
+        "name": "Asia/Ashgabat",
+        "isDefault": true,
+        "value": "+05:00"
+      }
+    ],
+    "defaultTimeZone": "+05:00"
+  },
+  {
+    "id": "TL",
+    "code": "TLS",
+    "dialCode": "670",
+    "name": "Timor-Leste, Democratic Republic of",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "USD",
+        "name": "USD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "defaultCurrency": "USD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Dili",
+        "name": "Asia/Dili",
+        "isDefault": true,
+        "value": "+09:00"
+      }
+    ],
+    "defaultTimeZone": "+09:00"
+  },
+  {
+    "id": "TO",
+    "code": "TON",
+    "dialCode": "676",
+    "name": "Tonga",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "TOP",
+        "name": "TOP",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "TOP"
+    ],
+    "defaultCurrency": "TOP",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Pacific/Tongatapu",
+        "name": "Pacific/Tongatapu",
+        "isDefault": true,
+        "value": "+13:00"
+      }
+    ],
+    "defaultTimeZone": "+13:00"
+  },
+  {
+    "id": "TT",
+    "code": "TTO",
+    "dialCode": "1 868",
+    "name": "Trinidad And Tobago",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "TTD",
+        "name": "TTD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "TTD"
+    ],
+    "defaultCurrency": "TTD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Port_of_Spain",
+        "name": "America/Port_of_Spain",
+        "isDefault": true,
+        "value": "-04:00"
+      }
+    ],
+    "defaultTimeZone": "-04:00"
+  },
+  {
+    "id": "TN",
+    "code": "TUN",
+    "dialCode": "216",
+    "name": "Tunisia",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "TND",
+        "name": "TND",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "TND"
+    ],
+    "defaultCurrency": "TND",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Tunis",
+        "name": "Africa/Tunis",
+        "isDefault": true,
+        "value": "+01:00"
+      }
+    ],
+    "defaultTimeZone": "+01:00"
+  },
+  {
+    "id": "TR",
+    "code": "TUR",
+    "dialCode": "90",
+    "name": "Turkey",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "TRY",
+        "name": "TRY",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "TRY"
+    ],
+    "defaultCurrency": "TRY",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Istanbul",
+        "name": "Europe/Istanbul",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "TV",
+    "code": "TUV",
+    "dialCode": "688",
+    "name": "Tuvalu",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "AUD",
+        "name": "AUD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "AUD"
+    ],
+    "defaultCurrency": "AUD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Pacific/Funafuti",
+        "name": "Pacific/Funafuti",
+        "isDefault": true,
+        "value": "+12:00"
+      }
+    ],
+    "defaultTimeZone": "+12:00"
+  },
+  {
+    "id": "TW",
+    "code": "TWN",
+    "dialCode": "886",
+    "name": "Taiwan",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "TWD",
+        "name": "TWD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "TWD"
+    ],
+    "defaultCurrency": "TWD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Taipei",
+        "name": "Asia/Taipei",
+        "isDefault": true,
+        "value": "+08:00"
+      }
+    ],
+    "defaultTimeZone": "+08:00"
+  },
+  {
+    "id": "TZ",
+    "code": "TZA",
+    "dialCode": "255",
+    "name": "Tanzania, United Republic Of",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "TZS",
+        "name": "TZS",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "TZS"
+    ],
+    "defaultCurrency": "TZS",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Nairobi",
+        "name": "Africa/Nairobi",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "UG",
+    "code": "UGA",
+    "dialCode": "256",
+    "name": "Uganda",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "UGX",
+        "name": "UGX",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "UGX"
+    ],
+    "defaultCurrency": "UGX",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Nairobi",
+        "name": "Africa/Nairobi",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "UA",
+    "code": "UKR",
+    "dialCode": "380",
+    "name": "Ukraine",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "UAH",
+        "name": "UAH",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "UAH"
+    ],
+    "defaultCurrency": "UAH",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Kiev",
+        "name": "Europe/Kiev",
+        "isDefault": true,
+        "value": "+03:00"
+      },
+      {
+        "id": "Europe/Uzhgorod",
+        "name": "Europe/Uzhgorod",
+        "isDefault": true,
+        "value": "+03:00"
+      },
+      {
+        "id": "Europe/Zaporozhye",
+        "name": "Europe/Zaporozhye",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "UM",
+    "code": "UMI",
+    "dialCode": "1",
+    "name": "United States Minor Outlying Islands",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "USD",
+        "name": "USD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "defaultCurrency": "USD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Pacific/Pago_Pago",
+        "name": "Pacific/Pago_Pago",
+        "isDefault": true,
+        "value": "-11:00"
+      },
+      {
+        "id": "Pacific/Wake",
+        "name": "Pacific/Wake",
+        "isDefault": true,
+        "value": "+12:00"
+      },
+      {
+        "id": "Pacific/Honolulu",
+        "name": "Pacific/Honolulu",
+        "isDefault": true,
+        "value": "-10:00"
+      }
+    ],
+    "defaultTimeZone": "-10:00"
+  },
+  {
+    "id": "UY",
+    "code": "URY",
+    "dialCode": "598",
+    "name": "Uruguay",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "UYU",
+        "name": "UYU",
+        "isDefault": true
+      },
+      {
+        "id": "UYI",
+        "name": "UYI",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "UYU",
+      "UYI"
+    ],
+    "defaultCurrency": "UYU",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Montevideo",
+        "name": "America/Montevideo",
+        "isDefault": true,
+        "value": "-03:00"
+      }
+    ],
+    "defaultTimeZone": "-03:00"
+  },
+  {
+    "id": "US",
+    "code": "USA",
+    "dialCode": "1",
+    "name": "United States",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "USD",
+        "name": "USD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "defaultCurrency": "USD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/New_York",
+        "name": "America/New_York",
+        "isDefault": true,
+        "value": "-04:00"
+      },
+      {
+        "id": "America/Detroit",
+        "name": "America/Detroit",
+        "isDefault": true,
+        "value": "-04:00"
+      },
+      {
+        "id": "America/Kentucky/Louisville",
+        "name": "America/Kentucky/Louisville",
+        "isDefault": true,
+        "value": "-04:00"
+      },
+      {
+        "id": "America/Kentucky/Monticello",
+        "name": "America/Kentucky/Monticello",
+        "isDefault": true,
+        "value": "-04:00"
+      },
+      {
+        "id": "America/Indiana/Indianapolis",
+        "name": "America/Indiana/Indianapolis",
+        "isDefault": true,
+        "value": "-04:00"
+      },
+      {
+        "id": "America/Indiana/Vincennes",
+        "name": "America/Indiana/Vincennes",
+        "isDefault": true,
+        "value": "-04:00"
+      },
+      {
+        "id": "America/Indiana/Winamac",
+        "name": "America/Indiana/Winamac",
+        "isDefault": true,
+        "value": "-04:00"
+      },
+      {
+        "id": "America/Indiana/Marengo",
+        "name": "America/Indiana/Marengo",
+        "isDefault": true,
+        "value": "-04:00"
+      },
+      {
+        "id": "America/Indiana/Petersburg",
+        "name": "America/Indiana/Petersburg",
+        "isDefault": true,
+        "value": "-04:00"
+      },
+      {
+        "id": "America/Indiana/Vevay",
+        "name": "America/Indiana/Vevay",
+        "isDefault": true,
+        "value": "-04:00"
+      },
+      {
+        "id": "America/Chicago",
+        "name": "America/Chicago",
+        "isDefault": true,
+        "value": "-05:00"
+      },
+      {
+        "id": "America/Indiana/Tell_City",
+        "name": "America/Indiana/Tell_City",
+        "isDefault": true,
+        "value": "-05:00"
+      },
+      {
+        "id": "America/Indiana/Knox",
+        "name": "America/Indiana/Knox",
+        "isDefault": true,
+        "value": "-05:00"
+      },
+      {
+        "id": "America/Menominee",
+        "name": "America/Menominee",
+        "isDefault": true,
+        "value": "-05:00"
+      },
+      {
+        "id": "America/North_Dakota/Center",
+        "name": "America/North_Dakota/Center",
+        "isDefault": true,
+        "value": "-05:00"
+      },
+      {
+        "id": "America/North_Dakota/New_Salem",
+        "name": "America/North_Dakota/New_Salem",
+        "isDefault": true,
+        "value": "-05:00"
+      },
+      {
+        "id": "America/North_Dakota/Beulah",
+        "name": "America/North_Dakota/Beulah",
+        "isDefault": true,
+        "value": "-05:00"
+      },
+      {
+        "id": "America/Denver",
+        "name": "America/Denver",
+        "isDefault": true,
+        "value": "-06:00"
+      },
+      {
+        "id": "America/Boise",
+        "name": "America/Boise",
+        "isDefault": true,
+        "value": "-06:00"
+      },
+      {
+        "id": "America/Phoenix",
+        "name": "America/Phoenix",
+        "isDefault": true,
+        "value": "-07:00"
+      },
+      {
+        "id": "America/Los_Angeles",
+        "name": "America/Los_Angeles",
+        "isDefault": true,
+        "value": "-07:00"
+      },
+      {
+        "id": "America/Metlakatla",
+        "name": "America/Metlakatla",
+        "isDefault": true,
+        "value": "-08:00"
+      },
+      {
+        "id": "America/Anchorage",
+        "name": "America/Anchorage",
+        "isDefault": true,
+        "value": "-08:00"
+      },
+      {
+        "id": "America/Juneau",
+        "name": "America/Juneau",
+        "isDefault": true,
+        "value": "-08:00"
+      },
+      {
+        "id": "America/Sitka",
+        "name": "America/Sitka",
+        "isDefault": true,
+        "value": "-08:00"
+      },
+      {
+        "id": "America/Yakutat",
+        "name": "America/Yakutat",
+        "isDefault": true,
+        "value": "-08:00"
+      },
+      {
+        "id": "America/Nome",
+        "name": "America/Nome",
+        "isDefault": true,
+        "value": "-08:00"
+      },
+      {
+        "id": "America/Adak",
+        "name": "America/Adak",
+        "isDefault": true,
+        "value": "-09:00"
+      },
+      {
+        "id": "Pacific/Honolulu",
+        "name": "Pacific/Honolulu",
+        "isDefault": true,
+        "value": "-10:00"
+      }
+    ],
+    "defaultTimeZone": "-10:00"
+  },
+  {
+    "id": "UZ",
+    "code": "UZB",
+    "dialCode": "998",
+    "name": "Uzbekistan",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "UZS",
+        "name": "UZS",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "UZS"
+    ],
+    "defaultCurrency": "UZS",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Samarkand",
+        "name": "Asia/Samarkand",
+        "isDefault": true,
+        "value": "+05:00"
+      },
+      {
+        "id": "Asia/Tashkent",
+        "name": "Asia/Tashkent",
+        "isDefault": true,
+        "value": "+05:00"
+      }
+    ],
+    "defaultTimeZone": "+05:00"
+  },
+  {
+    "id": "VA",
+    "code": "VAT",
+    "dialCode": "379",
+    "name": "Vatican City State",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "defaultCurrency": "EUR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Europe/Rome",
+        "name": "Europe/Rome",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "VC",
+    "code": "VCT",
+    "dialCode": "1 784",
+    "name": "Saint Vincent And The Grenadines",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "XCD",
+        "name": "XCD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "defaultCurrency": "XCD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Port_of_Spain",
+        "name": "America/Port_of_Spain",
+        "isDefault": true,
+        "value": "-04:00"
+      }
+    ],
+    "defaultTimeZone": "-04:00"
+  },
+  {
+    "id": "VE",
+    "code": "VEN",
+    "dialCode": "58",
+    "name": "Venezuela, Bolivarian Republic Of",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "VEF",
+        "name": "VEF",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "VEF"
+    ],
+    "defaultCurrency": "VEF",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Caracas",
+        "name": "America/Caracas",
+        "isDefault": true,
+        "value": "-04:00"
+      }
+    ],
+    "defaultTimeZone": "-04:00"
+  },
+  {
+    "id": "VG",
+    "code": "VGB",
+    "dialCode": "1 284",
+    "name": "Virgin Islands (British)",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "USD",
+        "name": "USD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "defaultCurrency": "USD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Port_of_Spain",
+        "name": "America/Port_of_Spain",
+        "isDefault": true,
+        "value": "-04:00"
+      }
+    ],
+    "defaultTimeZone": "-04:00"
+  },
+  {
+    "id": "VI",
+    "code": "VIR",
+    "dialCode": "1 340",
+    "name": "Virgin Islands (US)",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "USD",
+        "name": "USD",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "defaultCurrency": "USD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "America/Port_of_Spain",
+        "name": "America/Port_of_Spain",
+        "isDefault": true,
+        "value": "-04:00"
+      }
+    ],
+    "defaultTimeZone": "-04:00"
+  },
+  {
+    "id": "VN",
+    "code": "VNM",
+    "dialCode": "84",
+    "name": "Viet Nam",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "VND",
+        "name": "VND",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "VND"
+    ],
+    "defaultCurrency": "VND",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Bangkok",
+        "name": "Asia/Bangkok",
+        "isDefault": true,
+        "value": "+07:00"
+      },
+      {
+        "id": "Asia/Ho_Chi_Minh",
+        "name": "Asia/Ho_Chi_Minh",
+        "isDefault": true,
+        "value": "+07:00"
+      }
+    ],
+    "defaultTimeZone": "+07:00"
+  },
+  {
+    "id": "VU",
+    "code": "VUT",
+    "dialCode": "678",
+    "name": "Vanuatu",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "VUV",
+        "name": "VUV",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "VUV"
+    ],
+    "defaultCurrency": "VUV",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Pacific/Efate",
+        "name": "Pacific/Efate",
+        "isDefault": true,
+        "value": "+11:00"
+      }
+    ],
+    "defaultTimeZone": "+11:00"
+  },
+  {
+    "id": "WF",
+    "code": "WLF",
+    "dialCode": "681",
+    "name": "Wallis And Futuna",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "XPF",
+        "name": "XPF",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "XPF"
+    ],
+    "defaultCurrency": "XPF",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Pacific/Wallis",
+        "name": "Pacific/Wallis",
+        "isDefault": true,
+        "value": "+12:00"
+      }
+    ],
+    "defaultTimeZone": "+12:00"
+  },
+  {
+    "id": "WS",
+    "code": "WSM",
+    "dialCode": "685",
+    "name": "Samoa",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "WST",
+        "name": "WST",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "WST"
+    ],
+    "defaultCurrency": "WST",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Pacific/Apia",
+        "name": "Pacific/Apia",
+        "isDefault": true,
+        "value": "+14:00"
+      }
+    ],
+    "defaultTimeZone": "+14:00"
+  },
+  {
+    "id": "YE",
+    "code": "YEM",
+    "dialCode": "967",
+    "name": "Yemen",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "YER",
+        "name": "YER",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "YER"
+    ],
+    "defaultCurrency": "YER",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Asia/Riyadh",
+        "name": "Asia/Riyadh",
+        "isDefault": true,
+        "value": "+03:00"
+      }
+    ],
+    "defaultTimeZone": "+03:00"
+  },
+  {
+    "id": "ZA",
+    "code": "ZAF",
+    "dialCode": "27",
+    "name": "South Africa",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "ZAR",
+        "name": "ZAR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "ZAR"
+    ],
+    "defaultCurrency": "ZAR",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Johannesburg",
+        "name": "Africa/Johannesburg",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "ZM",
+    "code": "ZMB",
+    "dialCode": "260",
+    "name": "Zambia",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "ZMW",
+        "name": "ZMW",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "ZMW"
+    ],
+    "defaultCurrency": "ZMW",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Maputo",
+        "name": "Africa/Maputo",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  },
+  {
+    "id": "ZW",
+    "code": "ZWE",
+    "dialCode": "263",
+    "name": "Zimbabwe",
+    "isActive": true,
+    "currencys": [
+      {
+        "id": "USD",
+        "name": "USD",
+        "isDefault": true
+      },
+      {
+        "id": "ZAR",
+        "name": "ZAR",
+        "isDefault": true
+      },
+      {
+        "id": "BWP",
+        "name": "BWP",
+        "isDefault": true
+      },
+      {
+        "id": "GBP",
+        "name": "GBP",
+        "isDefault": true
+      },
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "currencies": [
+      "USD",
+      "ZAR",
+      "BWP",
+      "GBP",
+      "EUR"
+    ],
+    "defaultCurrency": "USD",
+    "bankCodeCaption": "Swift Code",
+    "timezones": [
+      {
+        "id": "Africa/Maputo",
+        "name": "Africa/Maputo",
+        "isDefault": true,
+        "value": "+02:00"
+      }
+    ],
+    "defaultTimeZone": "+02:00"
+  }
+]

@@ -1,0 +1,1490 @@
+[
+  {
+    "id": "AWG",
+    "symbol": "ƒ",
+    "name": "florin",
+    "countryName": "Aruba"
+  },
+  {
+    "id": "AFN",
+    "symbol": "؋",
+    "name": "afghani",
+    "countryName": "Afghanistan"
+  },
+  {
+    "id": "AOA",
+    "symbol": "Kz",
+    "name": "Kwanza",
+    "countryName": "Angola"
+  },
+  {
+    "id": "USD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "French Afar and Issas"
+  },
+  {
+    "id": "EUR",
+    "symbol": "€",
+    "name": "euro",
+    "countryName": "Åland Islands"
+  },
+  {
+    "id": "ALL",
+    "symbol": "lek",
+    "name": "lek",
+    "countryName": "Albania"
+  },
+  {
+    "id": "EUR",
+    "symbol": "€",
+    "name": "euro",
+    "countryName": "Andorra"
+  },
+  {
+    "id": "AED",
+    "symbol": ".د.ب",
+    "name": "dirham",
+    "countryName": "United Arab Emirates"
+  },
+  {
+    "id": "ARS",
+    "symbol": "$",
+    "name": "peso",
+    "countryName": "Argentina"
+  },
+  {
+    "id": "USD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "American Samoa"
+  },
+  {
+    "id": "USD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Antarctica"
+  },
+  {
+    "id": "EUR",
+    "symbol": "€",
+    "name": "euro",
+    "countryName": "French Southern Territories"
+  },
+  {
+    "id": "XCD",
+    "symbol": "EC$",
+    "name": "dollar",
+    "countryName": "Antigua And Barbuda"
+  },
+  {
+    "id": "AUD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Australia"
+  },
+  {
+    "id": "EUR",
+    "symbol": "€",
+    "name": "euro",
+    "countryName": "Austria"
+  },
+  {
+    "id": "AZN",
+    "symbol": "ман",
+    "name": "manat",
+    "countryName": "Azerbaijan"
+  },
+  {
+    "id": "EUR",
+    "symbol": "€",
+    "name": "euro",
+    "countryName": "Belgium"
+  },
+  {
+    "id": "BDT",
+    "symbol": "Tk",
+    "name": "Taka",
+    "countryName": "Bangladesh"
+  },
+  {
+    "id": "BGN",
+    "symbol": "лв",
+    "name": "lev",
+    "countryName": "Bulgaria"
+  },
+  {
+    "id": "BHD",
+    "symbol": ".د.ب or BD",
+    "name": "dinar",
+    "countryName": "Bahrain"
+  },
+  {
+    "id": "BSD",
+    "symbol": "B$",
+    "name": "dollar",
+    "countryName": "Bahamas"
+  },
+  {
+    "id": "BAM",
+    "symbol": "KM",
+    "name": "covertible marks",
+    "countryName": "Bosnia & Herzegovina"
+  },
+  {
+    "id": "EUR",
+    "symbol": "€",
+    "name": "euro",
+    "countryName": "Saint Barthélemy"
+  },
+  {
+    "id": "USD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Byelorussian SSR"
+  },
+  {
+    "id": "BZD",
+    "symbol": "BZ$",
+    "name": "dollar",
+    "countryName": "Belize"
+  },
+  {
+    "id": "BMD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Bermuda"
+  },
+  {
+    "id": "BOB",
+    "symbol": "$b",
+    "name": "boliviano",
+    "countryName": "Bolivia, Plurinational State Of"
+  },
+  {
+    "id": "BRL",
+    "symbol": "R$",
+    "name": "real",
+    "countryName": "Brazil"
+  },
+  {
+    "id": "BBD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Barbados"
+  },
+  {
+    "id": "BND",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Brunei Darussalam"
+  },
+  {
+    "id": "INR",
+    "symbol": "₹",
+    "name": "Rupee",
+    "countryName": "Bhutan"
+  },
+  {
+    "id": "NOK",
+    "symbol": "kr",
+    "name": "Krone",
+    "countryName": "Bouvet Island"
+  },
+  {
+    "id": "BWP",
+    "symbol": "P",
+    "name": "Pula",
+    "countryName": "Botswana"
+  },
+  {
+    "id": "CAD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Canada"
+  },
+  {
+    "id": "AUD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Cocos (Keeling) Islands"
+  },
+  {
+    "id": "CHF",
+    "symbol": "CHF",
+    "name": "franc",
+    "countryName": "Switzerland"
+  },
+  {
+    "id": "CLP",
+    "symbol": "$",
+    "name": "peso",
+    "countryName": "Chile"
+  },
+  {
+    "id": "CNY",
+    "symbol": "¥",
+    "name": "yuan",
+    "countryName": "China"
+  },
+  {
+    "id": "NZD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Cook Islands"
+  },
+  {
+    "id": "COP",
+    "symbol": "$",
+    "name": "peso",
+    "countryName": "Colombia"
+  },
+  {
+    "id": "CVE",
+    "symbol": "$",
+    "name": "escudo",
+    "countryName": "Cabo Verde"
+  },
+  {
+    "id": "CRC",
+    "symbol": "₡",
+    "name": "colón",
+    "countryName": "Costa Rica"
+  },
+  {
+    "id": "CUP",
+    "symbol": "₱",
+    "name": "peso",
+    "countryName": "Cuba"
+  },
+  {
+    "id": "ANG",
+    "symbol": "ƒ",
+    "name": "guilder",
+    "countryName": "Curacao"
+  },
+  {
+    "id": "AUD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Christmas Island"
+  },
+  {
+    "id": "KYD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Cayman Islands"
+  },
+  {
+    "id": "EUR",
+    "symbol": "€",
+    "name": "euro",
+    "countryName": "Cyprus"
+  },
+  {
+    "id": "CZK",
+    "symbol": "Kč",
+    "name": "koruna",
+    "countryName": "Czech Republic"
+  },
+  {
+    "id": "EUR",
+    "symbol": "€",
+    "name": "euro",
+    "countryName": "Germany"
+  },
+  {
+    "id": "DJF",
+    "symbol": "fdj",
+    "name": "franc",
+    "countryName": "Djibouti"
+  },
+  {
+    "id": "XCD",
+    "symbol": "EC$",
+    "name": "dollar",
+    "countryName": "Dominica"
+  },
+  {
+    "id": "DKK",
+    "symbol": "kr",
+    "name": "kroner",
+    "countryName": "Denmark"
+  },
+  {
+    "id": "DOP",
+    "symbol": "$",
+    "name": "peso",
+    "countryName": "Dominican Republic"
+  },
+  {
+    "id": "DZD",
+    "symbol": "جد",
+    "name": "dinar",
+    "countryName": "Algeria"
+  },
+  {
+    "id": "USD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Ecuador"
+  },
+  {
+    "id": "EGP",
+    "symbol": "£ ",
+    "name": "pound",
+    "countryName": "Egypt"
+  },
+  {
+    "id": "ERN",
+    "symbol": "ናቕፋ",
+    "name": "nafka",
+    "countryName": "Eritrea"
+  },
+  {
+    "id": "MAD",
+    "symbol": "م.د.",
+    "name": "dirham",
+    "countryName": "Western Sahara"
+  },
+  {
+    "id": "EUR",
+    "symbol": "€",
+    "name": "euro",
+    "countryName": "Spain"
+  },
+  {
+    "id": "EUR",
+    "symbol": "€",
+    "name": "euro",
+    "countryName": "Estonia"
+  },
+  {
+    "id": "ETB",
+    "symbol": "Br",
+    "name": "Birr",
+    "countryName": "Ethiopia"
+  },
+  {
+    "id": "EUR",
+    "symbol": "€",
+    "name": "euro",
+    "countryName": "Finland"
+  },
+  {
+    "id": "FJD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Fiji"
+  },
+  {
+    "id": "FKP",
+    "symbol": "£",
+    "name": "pound",
+    "countryName": "Falkland Islands"
+  },
+  {
+    "id": "EUR",
+    "symbol": "€",
+    "name": "euro",
+    "countryName": "France"
+  },
+  {
+    "id": "DKK",
+    "symbol": "kr",
+    "name": "kroner",
+    "countryName": "Faroe Islands"
+  },
+  {
+    "id": "USD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Micronesia, Federated States Of"
+  },
+  {
+    "id": "GBP",
+    "symbol": "£",
+    "name": "pound",
+    "countryName": "United Kingdom"
+  },
+  {
+    "id": "USD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Gilbert and Ellice Islands"
+  },
+  {
+    "id": "GBP",
+    "symbol": "£",
+    "name": "pound",
+    "countryName": "Guernsey"
+  },
+  {
+    "id": "GHS",
+    "symbol": "GH¢",
+    "name": "Cedi",
+    "countryName": "Ghana"
+  },
+  {
+    "id": "GIP",
+    "symbol": "£",
+    "name": "pound",
+    "countryName": "Gibraltar"
+  },
+  {
+    "id": "EUR",
+    "symbol": "€",
+    "name": "euro",
+    "countryName": "Guadeloupe"
+  },
+  {
+    "id": "EUR",
+    "symbol": "€",
+    "name": "euro",
+    "countryName": "Greece"
+  },
+  {
+    "id": "XCD",
+    "symbol": "EC$",
+    "name": "dollar",
+    "countryName": "Grenada"
+  },
+  {
+    "id": "DKK",
+    "symbol": "kr",
+    "name": "kroner",
+    "countryName": "Greenland"
+  },
+  {
+    "id": "GTQ",
+    "symbol": "Q",
+    "name": "quetzales",
+    "countryName": "Guatemala"
+  },
+  {
+    "id": "EUR",
+    "symbol": "€",
+    "name": "euro",
+    "countryName": "French Guiana"
+  },
+  {
+    "id": "USD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Guam"
+  },
+  {
+    "id": "GYD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Guyana"
+  },
+  {
+    "id": "HKD",
+    "symbol": "HK$",
+    "name": "dollar",
+    "countryName": "Hong Kong"
+  },
+  {
+    "id": "AUD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Heard Island And McDonald Islands"
+  },
+  {
+    "id": "HNL",
+    "symbol": "L",
+    "name": "lempira",
+    "countryName": "Honduras"
+  },
+  {
+    "id": "HRK",
+    "symbol": "kn",
+    "name": "kuna",
+    "countryName": "Croatia"
+  },
+  {
+    "id": "HTG",
+    "symbol": "G",
+    "name": "gourde",
+    "countryName": "Haiti"
+  },
+  {
+    "id": "HUF",
+    "symbol": "Ft",
+    "name": "forint",
+    "countryName": "Hungary"
+  },
+  {
+    "id": "IDR",
+    "symbol": "Rp",
+    "name": "Rupiah",
+    "countryName": "Indonesia"
+  },
+  {
+    "id": "GBP",
+    "symbol": "£",
+    "name": "pound",
+    "countryName": "Isle Of Man"
+  },
+  {
+    "id": "INR",
+    "symbol": "₹",
+    "name": "Rupee",
+    "countryName": "India"
+  },
+  {
+    "id": "USD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "British Indian Ocean Territory"
+  },
+  {
+    "id": "EUR",
+    "symbol": "€",
+    "name": "euro",
+    "countryName": "Ireland"
+  },
+  {
+    "id": "IQD",
+    "symbol": "ع.د",
+    "name": "dinar",
+    "countryName": "Iraq"
+  },
+  {
+    "id": "ISK",
+    "symbol": "kr",
+    "name": "krona",
+    "countryName": "Iceland"
+  },
+  {
+    "id": "ILS",
+    "symbol": "₪",
+    "name": "Shekel",
+    "countryName": "Israel"
+  },
+  {
+    "id": "EUR",
+    "symbol": "€",
+    "name": "euro",
+    "countryName": "Italy"
+  },
+  {
+    "id": "JMD",
+    "symbol": "J$",
+    "name": "dollar",
+    "countryName": "Jamaica"
+  },
+  {
+    "id": "GBP",
+    "symbol": "£",
+    "name": "pound",
+    "countryName": "Jersey"
+  },
+  {
+    "id": "JPY",
+    "symbol": "¥",
+    "name": "yen",
+    "countryName": "Japan"
+  },
+  {
+    "id": "KZT",
+    "symbol": "₸",
+    "name": "tenge",
+    "countryName": "Kazakhstan"
+  },
+  {
+    "id": "KES",
+    "symbol": "KSh",
+    "name": "Shilling",
+    "countryName": "Kenya"
+  },
+  {
+    "id": "KGS",
+    "symbol": "лв",
+    "name": "som",
+    "countryName": "Kyrgyzstan"
+  },
+  {
+    "id": "KHR",
+    "symbol": "៛",
+    "name": "riel",
+    "countryName": "Cambodia"
+  },
+  {
+    "id": "AUD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Kiribati"
+  },
+  {
+    "id": "XCD",
+    "symbol": "EC$",
+    "name": "dollar",
+    "countryName": "Saint Kitts And Nevis"
+  },
+  {
+    "id": "KRW",
+    "symbol": "₩",
+    "name": "won",
+    "countryName": "Korea, Republic Of"
+  },
+  {
+    "id": "EUR",
+    "symbol": "€",
+    "name": "euro",
+    "countryName": "Kosovo"
+  },
+  {
+    "id": "KWD",
+    "symbol": "ك",
+    "name": "dinar",
+    "countryName": "Kuwait"
+  },
+  {
+    "id": "LAK",
+    "symbol": "₭",
+    "name": "Kip",
+    "countryName": "Lao People's Democratic Republic"
+  },
+  {
+    "id": "LBP",
+    "symbol": "ل.ل",
+    "name": "pound",
+    "countryName": "Lebanon"
+  },
+  {
+    "id": "LRD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Liberia"
+  },
+  {
+    "id": "LYD",
+    "symbol": " د.ل",
+    "name": "dinar",
+    "countryName": "Libya"
+  },
+  {
+    "id": "XCD",
+    "symbol": "EC$",
+    "name": "dollar",
+    "countryName": "Saint Lucia"
+  },
+  {
+    "id": "CHF",
+    "symbol": "CHF",
+    "name": "franc",
+    "countryName": "Liechtenstein"
+  },
+  {
+    "id": "LKR",
+    "symbol": "Rs",
+    "name": "Rupee",
+    "countryName": "Sri Lanka"
+  },
+  {
+    "id": "LSL",
+    "symbol": "L or M",
+    "name": "loti (maloti)",
+    "countryName": "Lesotho"
+  },
+  {
+    "id": "EUR",
+    "symbol": "€",
+    "name": "euro",
+    "countryName": "Lithuania"
+  },
+  {
+    "id": "EUR",
+    "symbol": "€",
+    "name": "euro",
+    "countryName": "Luxembourg"
+  },
+  {
+    "id": "EUR",
+    "symbol": "€",
+    "name": "euro",
+    "countryName": "Latvia"
+  },
+  {
+    "id": "MOP",
+    "symbol": "MOP$",
+    "name": "pataca",
+    "countryName": "Macao"
+  },
+  {
+    "id": "EUR",
+    "symbol": "€",
+    "name": "euro",
+    "countryName": "Saint Martin"
+  },
+  {
+    "id": "MAD",
+    "symbol": "م.د.",
+    "name": "dirham",
+    "countryName": "Morocco"
+  },
+  {
+    "id": "EUR",
+    "symbol": "€",
+    "name": "euro",
+    "countryName": "Monaco"
+  },
+  {
+    "id": "MDL",
+    "symbol": "L",
+    "name": "Leu",
+    "countryName": "Moldova"
+  },
+  {
+    "id": "MGA",
+    "symbol": "Ar",
+    "name": "Ariary",
+    "countryName": "Madagascar"
+  },
+  {
+    "id": "MVR",
+    "symbol": "rf",
+    "name": "Rufiyaa",
+    "countryName": "Maldives"
+  },
+  {
+    "id": "MXN",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Mexico"
+  },
+  {
+    "id": "USD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Marshall Islands"
+  },
+  {
+    "id": "MKD",
+    "symbol": "ден",
+    "name": "denar",
+    "countryName": "Macedonia, The Former Yugoslav Republic Of"
+  },
+  {
+    "id": "EUR",
+    "symbol": "€",
+    "name": "euro",
+    "countryName": "Malta"
+  },
+  {
+    "id": "MMK",
+    "symbol": "K",
+    "name": "Kyat",
+    "countryName": "Myanmar"
+  },
+  {
+    "id": "EUR",
+    "symbol": "€",
+    "name": "euro",
+    "countryName": "Montenegro"
+  },
+  {
+    "id": "MNT",
+    "symbol": "₮",
+    "name": "Tughrik",
+    "countryName": "Mongolia"
+  },
+  {
+    "id": "USD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Northern Mariana Islands"
+  },
+  {
+    "id": "MZN",
+    "symbol": "MT",
+    "name": "metical",
+    "countryName": "Mozambique"
+  },
+  {
+    "id": "MRO",
+    "symbol": "UM",
+    "name": "Ouguiya",
+    "countryName": "Mauritania"
+  },
+  {
+    "id": "XCD",
+    "symbol": "EC$",
+    "name": "dollar",
+    "countryName": "Montserrat"
+  },
+  {
+    "id": "EUR",
+    "symbol": "€",
+    "name": "euro",
+    "countryName": "Martinique"
+  },
+  {
+    "id": "MUR",
+    "symbol": "Rs",
+    "name": "rupee",
+    "countryName": "Mauritius"
+  },
+  {
+    "id": "MWK",
+    "symbol": "MK",
+    "name": "Kwacha",
+    "countryName": "Malawi"
+  },
+  {
+    "id": "MYR",
+    "symbol": "RM",
+    "name": "Ringgit",
+    "countryName": "Malaysia"
+  },
+  {
+    "id": "EUR",
+    "symbol": "€",
+    "name": "euro",
+    "countryName": "Mayotte"
+  },
+  {
+    "id": "NAD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Namibia"
+  },
+  {
+    "id": "AUD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Norfolk Island"
+  },
+  {
+    "id": "NGN",
+    "symbol": "₦",
+    "name": "Naira",
+    "countryName": "Nigeria"
+  },
+  {
+    "id": "NIO",
+    "symbol": "C$",
+    "name": "córdoba",
+    "countryName": "Nicaragua"
+  },
+  {
+    "id": "NZD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Niue"
+  },
+  {
+    "id": "EUR",
+    "symbol": "€",
+    "name": "euro",
+    "countryName": "Netherlands"
+  },
+  {
+    "id": "NOK",
+    "symbol": "kr",
+    "name": "Krone",
+    "countryName": "Norway"
+  },
+  {
+    "id": "NPR",
+    "symbol": "Rs",
+    "name": "Rupee",
+    "countryName": "Nepal"
+  },
+  {
+    "id": "AUD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Nauru"
+  },
+  {
+    "id": "NZD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "New Zealand"
+  },
+  {
+    "id": "OMR",
+    "symbol": "ع.ر.",
+    "name": "rial",
+    "countryName": "Oman"
+  },
+  {
+    "id": "PKR",
+    "symbol": "Rs",
+    "name": "Rupee",
+    "countryName": "Pakistan"
+  },
+  {
+    "id": "PAB",
+    "symbol": "B/",
+    "name": "balboa",
+    "countryName": "Panama"
+  },
+  {
+    "id": "NZD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Pitcairn"
+  },
+  {
+    "id": "PEN",
+    "symbol": "S/",
+    "name": "nuevo sol",
+    "countryName": "Peru"
+  },
+  {
+    "id": "PHP",
+    "symbol": "₱",
+    "name": "Peso",
+    "countryName": "Philippines"
+  },
+  {
+    "id": "USD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Palau"
+  },
+  {
+    "id": "PGK",
+    "symbol": "K",
+    "name": "Kina",
+    "countryName": "Papua New Guinea"
+  },
+  {
+    "id": "PLN",
+    "symbol": "zł",
+    "name": "złoty",
+    "countryName": "Poland"
+  },
+  {
+    "id": "USD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Puerto Rico"
+  },
+  {
+    "id": "KPW",
+    "symbol": "₩",
+    "name": "won",
+    "countryName": "Korea, Democratic People's Republic Of"
+  },
+  {
+    "id": "EUR",
+    "symbol": "€",
+    "name": "euro",
+    "countryName": "Portugal"
+  },
+  {
+    "id": "PYG",
+    "symbol": "₲",
+    "name": "guarani",
+    "countryName": "Paraguay"
+  },
+  {
+    "id": "QAR",
+    "symbol": "ق.ر ",
+    "name": "riyal",
+    "countryName": "Qatar"
+  },
+  {
+    "id": "EUR",
+    "symbol": "€",
+    "name": "euro",
+    "countryName": "Reunion"
+  },
+  {
+    "id": "RON",
+    "symbol": "lei",
+    "name": "leu",
+    "countryName": "Romania"
+  },
+  {
+    "id": "RUB",
+    "symbol": "₽",
+    "name": "rouble",
+    "countryName": "Russian Federation"
+  },
+  {
+    "id": "RWF",
+    "symbol": "FRw, RF, R₣",
+    "name": "franc",
+    "countryName": "Rwanda"
+  },
+  {
+    "id": "SAR",
+    "symbol": "ر.س",
+    "name": "riyal",
+    "countryName": "Saudi Arabia"
+  },
+  {
+    "id": "SGD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Singapore"
+  },
+  {
+    "id": "GBP",
+    "symbol": "£",
+    "name": "pound",
+    "countryName": "South Georgia And The South Sandwich Islands"
+  },
+  {
+    "id": "NOK",
+    "symbol": "kr",
+    "name": "Krone",
+    "countryName": "Svalbard And Jan Mayen"
+  },
+  {
+    "id": "SBD",
+    "symbol": "SI$",
+    "name": "dollar",
+    "countryName": "Solomon Islands"
+  },
+  {
+    "id": "SLL",
+    "symbol": "Le",
+    "name": "Leone",
+    "countryName": "Sierra Leone"
+  },
+  {
+    "id": "USD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "El Salvador"
+  },
+  {
+    "id": "EUR",
+    "symbol": "€",
+    "name": "euro",
+    "countryName": "San Marino"
+  },
+  {
+    "id": "SOS",
+    "symbol": "S",
+    "name": "shilling",
+    "countryName": "Somalia"
+  },
+  {
+    "id": "EUR",
+    "symbol": "€",
+    "name": "euro",
+    "countryName": "Saint Pierre And Miquelon"
+  },
+  {
+    "id": "RSD",
+    "symbol": "РСД",
+    "name": "dinar",
+    "countryName": "Serbia"
+  },
+  {
+    "id": "SSP",
+    "symbol": "£",
+    "name": "pound",
+    "countryName": "South Sudan"
+  },
+  {
+    "id": "SRD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Suriname"
+  },
+  {
+    "id": "USD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Sikkim"
+  },
+  {
+    "id": "EUR",
+    "symbol": "€",
+    "name": "euro",
+    "countryName": "Slovenia"
+  },
+  {
+    "id": "SEK",
+    "symbol": "kr",
+    "name": "krona",
+    "countryName": "Sweden"
+  },
+  {
+    "id": "SZL",
+    "symbol": "L or E",
+    "name": "Lilangeni or emalangeni",
+    "countryName": "Swaziland"
+  },
+  {
+    "id": "ANG",
+    "symbol": "ƒ",
+    "name": "guilder",
+    "countryName": "Sint Maarten"
+  },
+  {
+    "id": "SCR",
+    "symbol": "Rs",
+    "name": "rupee",
+    "countryName": "Seychelles"
+  },
+  {
+    "id": "SYP",
+    "symbol": "£",
+    "name": "pound",
+    "countryName": "Syrian Arab Republic"
+  },
+  {
+    "id": "USD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Turks And Caicos Islands"
+  },
+  {
+    "id": "THB",
+    "symbol": "฿",
+    "name": "baht",
+    "countryName": "Thailand"
+  },
+  {
+    "id": "NZD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Tokelau"
+  },
+  {
+    "id": "TMT",
+    "symbol": "T",
+    "name": "manat",
+    "countryName": "Turkmenistan"
+  },
+  {
+    "id": "USD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Timor-Leste, Democratic Republic of"
+  },
+  {
+    "id": "TOP",
+    "symbol": "T$",
+    "name": "hau",
+    "countryName": "Tonga"
+  },
+  {
+    "id": "TTD",
+    "symbol": "TT$",
+    "name": "dollar",
+    "countryName": "Trinidad And Tobago"
+  },
+  {
+    "id": "AUD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Tuvalu"
+  },
+  {
+    "id": "TWD",
+    "symbol": "NT$",
+    "name": "dollar",
+    "countryName": "Taiwan"
+  },
+  {
+    "id": "TZS",
+    "symbol": "Sh",
+    "name": "Shilling",
+    "countryName": "Tanzania, United Republic Of"
+  },
+  {
+    "id": "UGX",
+    "symbol": "USh",
+    "name": "Shilling",
+    "countryName": "Uganda"
+  },
+  {
+    "id": "UAH",
+    "symbol": "₴",
+    "name": "Hryvnia",
+    "countryName": "Ukraine"
+  },
+  {
+    "id": "USD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "United States Minor Outlying Islands"
+  },
+  {
+    "id": "UYU",
+    "symbol": "$U",
+    "name": "peso",
+    "countryName": "Uruguay"
+  },
+  {
+    "id": "USD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "United States"
+  },
+  {
+    "id": "UZS",
+    "symbol": "лв",
+    "name": "som",
+    "countryName": "Uzbekistan"
+  },
+  {
+    "id": "EUR",
+    "symbol": "€",
+    "name": "euro",
+    "countryName": "Vatican City State"
+  },
+  {
+    "id": "XCD",
+    "symbol": "EC$",
+    "name": "dollar",
+    "countryName": "Saint Vincent And The Grenadines"
+  },
+  {
+    "id": "VEF",
+    "symbol": "Bs",
+    "name": "bolívares fuertes",
+    "countryName": "Venezuela, Bolivarian Republic Of"
+  },
+  {
+    "id": "USD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Virgin Islands (British)"
+  },
+  {
+    "id": "USD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Virgin Islands (US)"
+  },
+  {
+    "id": "VND",
+    "symbol": "₫",
+    "name": "dong",
+    "countryName": "Viet Nam"
+  },
+  {
+    "id": "VUV",
+    "symbol": "VT",
+    "name": "vatu",
+    "countryName": "Vanuatu"
+  },
+  {
+    "id": "WST",
+    "symbol": "$",
+    "name": "tālā",
+    "countryName": "Samoa"
+  },
+  {
+    "id": "ZAR",
+    "symbol": "R",
+    "name": "Rand",
+    "countryName": "South Africa"
+  },
+  {
+    "id": "ZMW",
+    "symbol": "ZMK",
+    "name": "Kwacha",
+    "countryName": "Zambia"
+  },
+  {
+    "id": "USD",
+    "symbol": "$",
+    "name": "dollar",
+    "countryName": "Zimbabwe"
+  },
+  {
+    "id": "AMD",
+    "symbol": "դր.",
+    "name": "Armenian dram",
+    "countryName": "Armenia"
+  },
+  {
+    "id": "BIF",
+    "symbol": "FBu",
+    "name": "Burundian franc",
+    "countryName": "Burundi"
+  },
+  {
+    "id": "XOF",
+    "symbol": "CFA",
+    "name": "West African CFA franc",
+    "countryName": "Benin"
+  },
+  {
+    "id": "XOF",
+    "symbol": "CFA",
+    "name": "West African CFA franc",
+    "countryName": "Burkina Faso"
+  },
+  {
+    "id": "XAF",
+    "symbol": "FCFA",
+    "name": "CFA franc BEAC",
+    "countryName": "Central African Republic"
+  },
+  {
+    "id": "XOF",
+    "symbol": "CFA",
+    "name": "West African CFA franc",
+    "countryName": "Côte d'Ivoire"
+  },
+  {
+    "id": "XAF",
+    "symbol": "FCFA",
+    "name": "CFA franc BEAC",
+    "countryName": "Cameroon"
+  },
+  {
+    "id": "CDF",
+    "symbol": "FC",
+    "name": "Congolese franc",
+    "countryName": "Democratic Republic Of Congo"
+  },
+  {
+    "id": "XAF",
+    "symbol": "FCFA",
+    "name": "CFA franc BEAC",
+    "countryName": "Republic Of Congo"
+  },
+  {
+    "id": "KMF",
+    "symbol": "CF",
+    "name": "Comorian franc",
+    "countryName": "Comoros"
+  },
+  {
+    "id": "XAF",
+    "symbol": "FCFA",
+    "name": "CFA franc BEAC",
+    "countryName": "Gabon"
+  },
+  {
+    "id": "GNF",
+    "symbol": "K",
+    "name": "Papua New Guinean kina",
+    "countryName": "Guinea"
+  },
+  {
+    "id": "GMD",
+    "symbol": "D",
+    "name": "Gambian dalasi",
+    "countryName": "Gambia"
+  },
+  {
+    "id": "XOF",
+    "symbol": "CFA",
+    "name": "West African CFA franc",
+    "countryName": "Guinea-bissau"
+  },
+  {
+    "id": "XAF",
+    "symbol": "FCFA",
+    "name": "CFA franc BEAC",
+    "countryName": "Equatorial Guinea"
+  },
+  {
+    "id": "IRR",
+    "symbol": "﷼",
+    "name": "Iranian rial",
+    "countryName": "Iran, Islamic Republic Of"
+  },
+  {
+    "id": "JOD",
+    "symbol": "ينار",
+    "name": "Jordanian dinar",
+    "countryName": "Jordan"
+  },
+  {
+    "id": "XOF",
+    "symbol": "CFA",
+    "name": "West African CFA franc",
+    "countryName": "Mali"
+  },
+  {
+    "id": "XPF",
+    "symbol": "₣",
+    "name": "CFP franc",
+    "countryName": "New Caledonia"
+  },
+  {
+    "id": "XOF",
+    "symbol": "CFA",
+    "name": "West African CFA franc",
+    "countryName": "Niger"
+  },
+  {
+    "id": "JOD",
+    "symbol": "ينار",
+    "name": "Jordanian dinar",
+    "countryName": "Palestinian Territory, Occupied"
+  },
+  {
+    "id": "XPF",
+    "symbol": "₣",
+    "name": "CFP franc",
+    "countryName": "French Polynesia"
+  },
+  {
+    "id": "SDG",
+    "symbol": "ج.س.",
+    "name": "Sudanese pound",
+    "countryName": "Sudan"
+  },
+  {
+    "id": "XOF",
+    "symbol": "CFA",
+    "name": "West African CFA franc",
+    "countryName": "Senegal"
+  },
+  {
+    "id": "STD",
+    "symbol": "Db",
+    "name": "São Tomé and Príncipe dobra",
+    "countryName": "Sao Tome and Principe"
+  },
+  {
+    "id": "XAF",
+    "symbol": "FCFA",
+    "name": "CFA franc BEAC",
+    "countryName": "Chad"
+  },
+  {
+    "id": "XOF",
+    "symbol": "CFA",
+    "name": "West African CFA franc",
+    "countryName": "Togo"
+  },
+  {
+    "id": "TJS",
+    "symbol": "TJS",
+    "name": "Tajikistani somoni",
+    "countryName": "Tajikistan"
+  },
+  {
+    "id": "TND",
+    "symbol": "DT",
+    "name": "Tunisian Dinar",
+    "countryName": "Tunisia"
+  },
+  {
+    "id": "TRY",
+    "symbol": "TL",
+    "name": "Turkish Lira",
+    "countryName": "Turkey"
+  },
+  {
+    "id": "XPF",
+    "symbol": "₣",
+    "name": "CFP franc",
+    "countryName": "Wallis And Futuna"
+  },
+  {
+    "id": "YER",
+    "symbol": "rial",
+    "name": "Yemen Rial",
+    "countryName": "Yemen"
+  }
+]
